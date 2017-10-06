@@ -3,7 +3,7 @@ assigned:
         text: Home
         href: pages/home.md
         permalink: /
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: false
     -
         text: About
@@ -12,31 +12,54 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work
-        href: pages/projects.md
-        permalink: /projects/
+        text: Participate
+        href: pages/Participate.md
+        permalink: /participate/
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: 'Marketplace'
+        href: https://marketplace.fedramp.gov
+        permalink: /marketplace/
         show_in_menu: true
         show_in_footer: false
         children:
             -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
+                text: 'FedRAMP Authorized Products'
+                href: https://marketplace.fedramp.gov/#/products?status=Compliant&sort=productName
+                show_in_menu: true
                 show_in_footer: false
             -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
+                text: 'FedRAMP In-process Products'
+                href: https://marketplace.fedramp.gov/#/products?status=In%20Process&sort=productName
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'FedRAMP Ready Products'
+                href: https://marketplace.fedramp.gov/#/products?status=FedRAMP%20Ready&sort=productName
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'All Agencies'
+                href: http://marketplace.fedramp.gov/index.html#/agencies?sort=name
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'Assessors'
+                href: https://marketplace.fedramp.gov/#/assessors?sort=assessorName
+                show_in_menu: true
                 show_in_footer: false
     -
-        text: 'Team'
-        href: pages/team.md
-        permalink: /team/
+        text: 'Resources'
+        href: resources/resources.md
+        permalink: /resources/
         show_in_menu: true
         show_in_footer: false
-    -
-        text: 'Project data'
-        href: _data/projects.yml
-        show_in_menu: false
+
+            -
+        text: 'Blog'
+        href: https://www.fedramp.gov/focus-on-fedramp/
+        permalink: /blog/
+        show_in_menu: true
         show_in_footer: false
 unassigned: []
