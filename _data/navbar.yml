@@ -13,7 +13,7 @@ assigned:
         show_in_footer: false
     -
         text: Participate
-        href: pages/Participate.md
+        href: pages/participate.md
         permalink: /participate/
         show_in_menu: true
         show_in_footer: false
@@ -51,7 +51,7 @@ assigned:
                 show_in_footer: false
     -
         text: 'Resources'
-        href: resources/resources.md
+        href: pages/resources.md
         permalink: /resources/
         show_in_menu: true
         show_in_footer: false
