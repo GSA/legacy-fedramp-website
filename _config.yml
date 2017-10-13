@@ -63,21 +63,16 @@ forms:
 
 footer:
   links:
-      - text: 'Work'
-        href: '#'
-      - text: 'About'
-        href: '#'
   image: /assets/img/gsa-logo-dark.jpg
   contact:
-    name: FedRAMP
+    name: 
     email: info@FedRAMP.gov
-    address: General Services Administration 1800 F Street NW Washington, DC 20006
     twitter:
       - FedRAMP
     facebook: 
     youtube: 
     rss: 
-  text: 
+  text: General Services Administration 1800 F Street NW Washington, DC 20006
 
 # Build settings
 markdown: kramdown
