@@ -6,60 +6,27 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: About
+        text: Program
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Participate
-        href: pages/participate.md
-        permalink: /participate/
+        text: Team
+        href: pages/team.md
+        permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Marketplace'
-        href: https://marketplace.fedramp.gov
-        permalink: /marketplace/
+        text: Governance
+        href: pages/governancce.md
+        permalink: /governance/
         show_in_menu: true
         show_in_footer: false
-        children:
-            -
-                text: 'FedRAMP Authorized Products'
-                href: https://marketplace.fedramp.gov/#/products?status=Compliant&sort=productName
-                show_in_menu: true
-                show_in_footer: false
-            -
-                text: 'FedRAMP In-process Products'
-                href: https://marketplace.fedramp.gov/#/products?status=In%20Process&sort=productName
-                show_in_menu: true
-                show_in_footer: false
-            -
-                text: 'FedRAMP Ready Products'
-                href: https://marketplace.fedramp.gov/#/products?status=FedRAMP%20Ready&sort=productName
-                show_in_menu: true
-                show_in_footer: false
-            -
-                text: 'All Agencies'
-                href: http://marketplace.fedramp.gov/index.html#/agencies?sort=name
-                show_in_menu: true
-                show_in_footer: false
-            -
-                text: 'Assessors'
-                href: https://marketplace.fedramp.gov/#/assessors?sort=assessorName
-                show_in_menu: true
-                show_in_footer: false
     -
-        text: 'Resources'
-        href: pages/resources.md
-        permalink: /resources/
+        text: Marketplace
+        permalink: https://marketplace.fedramp.gov
         show_in_menu: true
         show_in_footer: false
 
-            -
-        text: 'Blog'
-        href: https://www.fedramp.gov/focus-on-fedramp/
-        permalink: /blog/
-        show_in_menu: true
-        show_in_footer: false
 unassigned: []
