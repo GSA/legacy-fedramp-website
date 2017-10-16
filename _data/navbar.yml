@@ -25,7 +25,7 @@ assigned:
         show_in_footer: false
     -
         text: Marketplace
-        permalink: https://marketplace.fedramp.gov
+        href: https://marketplace.fedramp.gov
         show_in_menu: true
         show_in_footer: false
 
