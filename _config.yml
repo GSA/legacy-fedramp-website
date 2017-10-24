@@ -53,6 +53,7 @@ defaults:
       - project
       - "team-list"
       - team
+      - posts
 
 forms:
 - type: newsletter
@@ -89,5 +90,8 @@ collections:
     output: true
   team:
     output: true
+  posts:
+    output: true
+
 
 wds-version: 1.1.0
