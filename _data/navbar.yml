@@ -6,6 +6,12 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
+        text: Blog
+        href: pages/blog.md
+        permalink: /blog/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: Program
         href: pages/about.md
         permalink: /about/
