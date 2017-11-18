@@ -23,6 +23,12 @@
 
   {% include favicons.html %}
 
+  {% if site.env == "production" and page.sitemap != false  %}
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  {% else %}
+       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  {% endif %}
+
   <link rel="manifest" href="/manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
