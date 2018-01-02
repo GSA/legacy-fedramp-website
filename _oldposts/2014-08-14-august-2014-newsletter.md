@@ -1,5 +1,5 @@
 ---
-id: 72
+id: 73
 title: August 2014 Newsletter
 date: 2014-08-14T11:51:07+00:00
 layout: default
