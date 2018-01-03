@@ -1,9 +1,9 @@
 ---
-id: 67444
-title: 'New Requirements for Agency &#8220;FedRAMP In Process&#8221; Designation'
+
+title: 'New Requirements for Agency FedRAMP In Process Designation'
 date: 2017-08-17T12:14:58+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67444
 permalink: /new-requirements-for-agency-fedramp-in-process-designation/
 amazonS3_cache:
@@ -42,7 +42,7 @@ The In Process designation indicates to agencies that a CSP is actively working 
 
 **Why We Made Changes**
 
-One of the many best practices we learned through FedRAMP Accelerated is that it is critical for all parties involved in the authorization to be on the same page about FedRAMP requirements right from the get go. This helps ensure that an authorization can be achieved in a reasonable timeframe &#8211; as efficiently as possible for both the CSP and the Agency.
+One of the many best practices we learned through FedRAMP Accelerated is that it is critical for all parties involved in the authorization to be on the same page about FedRAMP requirements right from the get go. This helps ensure that an authorization can be achieved in a reasonable timeframe , as efficiently as possible for both the CSP and the Agency.
 
 The revised process will help ensure that both the CSP and the Agency are actively working on a FedRAMP authorization and are committed to making the authorization happen in a timely manner.
 
@@ -54,28 +54,28 @@ The reason an AO must send the initial e-mail is to ensure that agency personnel
 
 In addition to the FedRAMP PMO receiving correspondence from the AO or FedRAMP PMO-approved designee, **one of the following** must be demonstrated to the FedRAMP PMO: 
 
-<li style="font-weight: 400">
+
   The agency must provide proof of a contract award for the use of the CSO, and the contract must specify a timeline outlining when a FedRAMP-compliant ATO must be achieved. 
-</li>
-<li style="font-weight: 400">
+
+
   The cloud offering is actively in use with an Agency, and the Cloud Service Provider (CSP) can demonstrate Agency usage to the FedRAMP PMO. An e-mail from the Agency AO or FedRAMP PMO approved designee stating the product is being used by the Agency will meet this requirement.
-</li>
-<li style="font-weight: 400">
+
+
   The CSO achieved the “FedRAMP Ready” designation from the FedRAMP PMO. 
-</li>
-<li style="font-weight: 400">
+
+
   Involved parties completed a formal kick-off meeting with the FedRAMP PMO and Agency present, with agreement on: <ul>
-    <li style="font-weight: 400">
+    
       A project plan from the CSP that outlines project milestones and schedule associated with the delivery of key authorization deliverables to the Agency and anticipated ATO date.
-    </li>
-    <li style="font-weight: 400">
+    
+    
       An authorization boundary diagram of all services/capabilities that are included within the security authorization package.
-    </li>
-    <li style="font-weight: 400">
+    
+    
       Resources available to support the FedRAMP Authorization from the CSP and Agency; personnel identified as critical to the authorization must to be present at the kick-off meeting.
-    </li>
+    
   </ul>
-</li>
+
 
 The completion of an in depth kick-off meeting is one of the most powerful elements to ensure agreement on critical project/deliverable milestones, clear understanding of the FedRAMP process and stage gates, establish appropriate communication channels between all parties and technical overview of the CSO authorization boundary and security features. If CSP or agency selects this option, FedRAMP will partner with both the CSP and the Agency to ensure the CSP is fully prepared for the kick-off and authorization process, the agency can make sure all of their needs are met, and offer to facilitate the meeting. Through this effort, we have seen Agencies and CSPs work productively and efficiently together to yield quicker FedRAMP Agency Authorizations. 
 

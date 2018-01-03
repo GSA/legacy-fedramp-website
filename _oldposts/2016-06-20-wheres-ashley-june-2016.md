@@ -1,9 +1,9 @@
 ---
-id: 52171
-title: 'Where&#8217;s Ashley &#8211; June 2016'
+
+title: 'Where's Ashley , June 2016'
 date: 2016-06-20T09:18:46+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=52171
 permalink: /wheres-ashley-june-2016/
 make_faq_page:
@@ -44,7 +44,7 @@ We’ve been on an amazing journey together. For the past few months, you’ve f
 
 _Agency Evangelist Ashley Mahan with Frank Konieczny (USAF CTO), Jim Tunnessen (CTO USDA) and Nirmal Mehta (Chief Technologist at Booz Hamilton)_
 
-Speaking opportunities give me a chance to educate the federal IT, cloud industry and the public about the importance of FedRAMP. On May 20th, the FedRAMP PMO, myself, Matt Goodrich, John Hamilton and Claudio Belloli, spoke at the ISC2 CyberSecureGov 2016 conference. We had an amazing time and were able to explain the PMO&#8217;s upcoming initiatives and answer many questions.
+Speaking opportunities give me a chance to educate the federal IT, cloud industry and the public about the importance of FedRAMP. On May 20th, the FedRAMP PMO, myself, Matt Goodrich, John Hamilton and Claudio Belloli, spoke at the ISC2 CyberSecureGov 2016 conference. We had an amazing time and were able to explain the PMO's upcoming initiatives and answer many questions.
 
 But what’s coming next? Well, I’m glad you’re still interested! I’ll be embarking on a West Coast tour of agencies and cloud service providers. I’ll meet with members of federal agencies and cloud service providers to spread the roles and responsibilities of both in the FedRAMP process. I will continue to push for safe and secure cloud adoption across the federal government. 
 

@@ -1,9 +1,9 @@
 ---
-id: 67578
+
 title: FedRAMP Tailored Available for Use
 date: 2017-09-28T12:12:47+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67578
 permalink: /fedramp-tailored-available-for-use/
 make_faq_page:
@@ -35,15 +35,15 @@ categories:
 ---
 We are excited to announce our release of the **_FedRAMP Tailored_** Baseline for Cloud Service Providers (CSPs) with Low-Impact Software- as-a-Service (LI-SaaS) Systems!  FedRAMP Tailored was developed to support industry solutions that are low risk and low cost for agencies to deploy and use. Additionally, FedRAMP Tailored: 
 
-<li style="font-weight: 400">
+
   Creates a faster, streamlined process for systems that are low risk for use like collaboration tools, project management applications, and tools that help develop open-source code
-</li>
-<li style="font-weight: 400">
+
+
   Supports government Authorizing Officials’ need for a standardized approach to determining the risks associated with authorizing specific low-impact cloud applications
-</li>
-<li style="font-weight: 400">
+
+
   Incorporates industry input in order to provide the government with the agility to leverage valuable industry services while maintaining appropriate security levels 
-</li>
+
 
 We originally released [**_FedRAMP Tailored_**](https://www.fedramp.gov/launching-a-fedramp-tailored-baseline/) for public comment in February of this year. After making significant updates and incorporating your feedback, which included over 330 comments and reactions, we released it for a second public comment period in July. You can view all the comments and FedRAMP’s responses by visiting the GitHub [comment repository](https://github.com/GSA/fedramp-tailored/issues?q=is%3Aissue+is%3Aclosed).
 

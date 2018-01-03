@@ -1,9 +1,9 @@
 ---
-id: 67193
+
 title: Ramping Up Focus on FedRAMP
 date: 2017-06-22T13:06:16+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67193
 permalink: /ramping-up-focus-on-fedramp/
 make_faq_page:
@@ -37,18 +37,18 @@ After recently celebrating our [Fifth Birthday and logo update](https://www.fedr
 
 In the interest of communicating information about how to best work with FedRAMP regularly, we will be introducing a series of multi-part blogs. These series will be published weekly, in addition to any programmatic updates that occur. Our series of blogs will cover the following topics: 
 
-<li style="font-weight: 400">
+
   Understanding FedRAMP
-</li>
-<li style="font-weight: 400">
+
+
   Understanding the Readiness Assessment Report (RAR)
-</li>
-<li style="font-weight: 400">
+
+
   Tips for working towards an Agency ATO and becoming In Process with an Agency
-</li>
-<li style="font-weight: 400">
+
+
   Acquisitions
-</li>
+
 
 Additionally, we’re excited to show off our newly created FedRAMP [Tips & Cues page](https://www.fedramp.gov/resources/fedramp-tips-cues/). Rather than publishing the Tips & Cues within the Focus on FedRAMP Blog each week, we’ve moved all of the FedRAMP Tips & Cues to this new page. With the Tips & Cues now in one location, they will be more accessible and easier for our stakeholders to search.
 

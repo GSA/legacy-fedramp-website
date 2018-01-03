@@ -1,9 +1,9 @@
 ---
-id: 66799
-title: 'FedRAMP Tailored &#8211; Webinar and Comment-a-thon'
+
+title: 'FedRAMP Tailored , Webinar and Comment-a-thon'
 date: 2017-04-06T09:28:21+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66799
 permalink: /fedramp-tailored-webinar-and-comment-a-thon/
 make_faq_page:

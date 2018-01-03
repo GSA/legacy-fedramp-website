@@ -1,9 +1,9 @@
 ---
-id: 66910
+
 title: CSP and 3PAO Roles and Responsibilities
 date: 2017-05-18T09:58:37+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66910
 permalink: /csp-and-3pao-roles-and-responsibilities/
 amazonS3_cache:

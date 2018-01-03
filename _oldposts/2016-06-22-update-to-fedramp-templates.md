@@ -1,9 +1,9 @@
 ---
-id: 52801
+
 title: Update to FedRAMP Templates
 date: 2016-06-22T09:31:00+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=52801
 permalink: /update-to-fedramp-templates/
 make_faq_page:
@@ -42,45 +42,44 @@ On Monday, June 27th FedRAMP will be releasing updates to our templates to add s
 
 The updates to our templates include the following “ease-of-use” features:
 
-<li style="font-weight: 400">
+
   FedRAMP SSP Template – include text fields that allow the user to enter frequently repeated text (CSP  Name, Information System Name, etc.) once and automatically inserted everywhere it is used throughout the document
-</li>
-<li style="font-weight: 400">
+
+
   Tables, except for Control Summary Information tables – include prompted data fields, choice menus, and drop-down date pickers
-</li>
-<li style="font-weight: 400">
+
+
   Figures – include insert fields that make it easier to insert figures
-</li>
+
 
 All of the templates that will be updated include: 
 
-<li style="font-weight: 400">
+
   System Security Plan (SSP)
-</li>
-<li style="font-weight: 400">
+
+
   E-Authentication Worksheet
-</li>
-<li style="font-weight: 400">
+
+
   Privacy Threshold Analysis and Privacy Impact Assessment (PTA & PIA)
-</li>
-<li style="font-weight: 400">
+
+
   Rules of Behavior (RoB)
-</li>
-<li style="font-weight: 400">
+
+
   IT Contingency Plan
-</li>
-<li style="font-weight: 400">
+
+
   Control Implementation Summary (CIS) Report
-</li>
-<li style="font-weight: 400">
+
+
   Control Implementation Summary (CIS) Worksheet
-</li>
-<li style="font-weight: 400">
+
+
   FIPS 199 Categorization
-</li>
-<li style="font-weight: 400">
+
+
   Laws and Regulations
-</li>
-<li style="font-weight: 400">
+
+
   Inventory Workbook
-</li>

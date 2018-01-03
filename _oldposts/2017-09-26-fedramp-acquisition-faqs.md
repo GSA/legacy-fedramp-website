@@ -1,9 +1,9 @@
 ---
-id: 67559
+
 title: FedRAMP Acquisition FAQs
 date: 2017-09-26T11:57:44+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67559
 permalink: /fedramp-acquisition-faqs/
 make_faq_page:

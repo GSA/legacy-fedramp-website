@@ -1,9 +1,9 @@
 ---
-id: 66870
-title: 'FedRAMP Connect &#8211; The Latest Vendors Prioritized By The JAB'
+
+title: 'FedRAMP Connect , The Latest Vendors Prioritized By The JAB'
 date: 2017-05-02T09:43:40+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66870
 permalink: /fedramp-connect-the-latest-vendors-prioritized-by-the-jab/
 amazonS3_cache:
@@ -43,27 +43,27 @@ We received roughly 40 [FedRAMP Business Cases ](https://s3.amazonaws.com/sitesu
 
 Each vendor presenting at **_FedRAMP Connect_** pitched services to detail their governmentwide demand, applicability for cross-agency use, and the security of their system. After a full evaluation by the JAB and 13 agency representatives, the following seven were chosen to work with the JAB:
 
-<li style="font-weight: 400">
-  Accenture Federal Services &#8211; Accenture Insights Platform
-</li>
-<li style="font-weight: 400">
-  Apptio &#8211; Apptio, Inc. 
-</li>
-<li style="font-weight: 400">
-  Box &#8211; Box Enterprise Cloud Content Collaboration Platform (<i>high impact</i>)
-</li>
-<li style="font-weight: 400">
-  Google &#8211; Google Cloud Platform (GCP) 
-</li>
-<li style="font-weight: 400">
-  Axon &#8211; Axon Evidence.com
-</li>
-<li style="font-weight: 400">
-  XTEC &#8211; AuthentX Cloud Service Offering (AuthentX CSO) (<i>high impact</i>)
-</li>
-<li style="font-weight: 400">
-  SAP National Security Services (NS2) &#8211; SuccessFactors Suite for Federal 
-</li>
+
+  Accenture Federal Services , Accenture Insights Platform
+
+
+  Apptio , Apptio, Inc. 
+
+
+  Box , Box Enterprise Cloud Content Collaboration Platform (high impact)
+
+
+  Google , Google Cloud Platform (GCP) 
+
+
+  Axon , Axon Evidence.com
+
+
+  XTEC , AuthentX Cloud Service Offering (AuthentX CSO) (high impact)
+
+
+  SAP National Security Services (NS2) , SuccessFactors Suite for Federal 
+
 
 We’re incredibly excited to work with these vendors and kickoff over the coming weeks and months.
 

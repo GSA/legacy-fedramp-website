@@ -1,9 +1,9 @@
 ---
-id: 67329
+
 title: Updated Version of FedRAMP Tailored Available for Public Comment
 date: 2017-07-13T17:17:56+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67329
 permalink: /updated-version-of-fedramp-tailored-available-for-public-comment/
 amazonS3_cache:
@@ -43,41 +43,41 @@ In reviewing the comments, there were several topics that generated significant 
 
 **Personally Identifiable Information (PII)**
 
-<li style="font-weight: 400">
-  There were many comments around the threshold for PII and how merely having a login can disqualify systems from <b><i>Tailored</i></b>.
-</li>
-<li style="font-weight: 400">
+
+  There were many comments around the threshold for PII and how merely having a login can disqualify systems from **Tailored**.
+
+
   FedRAMP has updated the policy to allow PII only at the minimum necessary for login purposes and is encouraging providers to use pre-existing government directory services or an external authentication directory when requiring a log in. 
-</li>
+
 
 <img class=" wp-image-67330 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/07/Screen-Shot-2017-07-13-at-5.16.41-PM.png" alt="" width="338" height="214" />
 
 **Continuous Monitoring (ConMon)**
 
-<li style="font-weight: 400">
-  The ConMon section of the policy was still under development during the last round of public comment and we received a lot of questions and comments on how ConMon will work for <b><i>FedRAMP Tailored</i></b>.
-</li>
-<li style="font-weight: 400">
+
+  The ConMon section of the policy was still under development during the last round of public comment and we received a lot of questions and comments on how ConMon will work for **FedRAMP Tailored**.
+
+
   An Appendix on ConMon has now been developed and will clearly lay out the policy. 
-</li>
+
 
 **Attestation**
 
-<li style="font-weight: 400">
+
   We received a lot of questions that indicated we could have been more clear about the attestation process.  
-</li>
-<li style="font-weight: 400">
+
+
   The updated baseline includes more information around when and how the attestation is delivered and a template with specific statements so it is clear what the Cloud Service Provider is attesting to for each control. 
-</li>
+
 
 **Scope**
 
-<li style="font-weight: 400">
-  We received a lot of comments regarding the current scope of <i>FedRAMP Tailored</i>.
-</li>
-<li style="font-weight: 400">
+
+  We received a lot of comments regarding the current scope of FedRAMP Tailored.
+
+
   Through this round of updates, the scope of the baseline has remained low impact, Saas Systems, with the exception of the provision for PII in logins/authentications, which will be provided.
-</li>
+
 
 If you have additional comments about these updates or other elements of the **_FedRAMP Tailored_** baseline, please review the updated policy [here](https://tailored.fedramp.gov/) and share your thoughts with us through our [GitHub site](https://github.com/GSA/fedramp-tailored/issues). We have pre-created topic areas for you to comment on, but feel free to create a new “issue” if your feedback doesn’t fit into one of these areas. 
 

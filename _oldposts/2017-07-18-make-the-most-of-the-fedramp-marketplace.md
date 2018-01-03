@@ -1,9 +1,9 @@
 ---
-id: 67344
+
 title: Make the Most of the FedRAMP Marketplace
 date: 2017-07-18T14:14:28+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67344
 permalink: /make-the-most-of-the-fedramp-marketplace/
 make_faq_page:
@@ -52,17 +52,17 @@ Additionally, you can download the Marketplace data for reporting or use offline
 
 All services listed in the Marketplace meet one of the following requirements:
 
-<li style="font-weight: 400">
+
   The service has been deemed FedRAMP Ready.
-</li>
-<li style="font-weight: 400">
-  An Agency has emailed info@fedramp.gov noting that they&#8217;re sponsoring a CSP and has worked with the FedRAMP PMO to gather the information for the page.
-</li>
-<li style="font-weight: 400">
+
+
+  An Agency has emailed info@fedramp.gov noting that they're sponsoring a CSP and has worked with the FedRAMP PMO to gather the information for the page.
+
+
   The service has an Agency ATO.
-</li>
-<li style="font-weight: 400">
+
+
   The service has a JAB P-ATO.
-</li>
+
 
 The Marketplace is updated daily, so make sure to check back frequently.

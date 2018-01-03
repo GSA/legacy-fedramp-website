@@ -1,37 +1,12 @@
 ---
-id: 41182
 title: FedRAMP 3PAOs Expected to be A2LA Accredited by Year End
-date: 2015-11-17T11:29:09+00:00
-author: FedRAMP
-layout: default
-guid: https://www.fedramp.gov/?p=41182
+layout: blog-list
 permalink: /fedramp-3paos-expected-to-be-a2la-accredited-by-year-end/
-make_faq_page:
-  - ""
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:2:{s:96:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update.png";i:41202;s:103:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update-300x48.png";i:41202;}'
-categories:
-  - 3PAO
-  - FedRAMP
-  - Newsroom
+body-class: page-blog
 ---
 <img class="  alignright wp-image-41202 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update.png" alt="combined_logos_update" width="506" height="81" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update.png 506w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update-300x48.png 300w" sizes="(max-width: 506px) 100vw, 506px" />
 
-Since March 2014, <a href="https://www.a2la.org/">American Assocation for Laboratory Accreditation</a> (A2LA) has been working diligently to transfer all FedRAMP Third Party Accredited Organizations (3PAOs) to the new recognition process, which starts with accreditation by A2LA to the international standard ISO/IEC 17020. The standard is written specifically for the accreditation of inspection bodies, such as 3PAOs. A2LA is a nonprofit accreditation body, with over 30 years of experience accrediting to ISO standards.
+Since March 2014, [American Association for Laboratory Accreditation (A2LA)](https://www.a2la.org/) has been working diligently to transfer all FedRAMP Third Party Accredited Organizations (3PAOs) to the new recognition process, which starts with accreditation by A2LA to the international standard ISO/IEC 17020. The standard is written specifically for the accreditation of inspection bodies, such as 3PAOs. A2LA is a nonprofit accreditation body, with over 30 years of experience accrediting to ISO standards.
 
 Making the switch to an ISO-based approval will ensure that results coming from the accredited 3PAOs are reliable. This is done by confirming that competent individuals are carrying out the inspections performed by the 3PAOs. ISO/IEC 17020 addresses the topic of competence specifically by requiring appropriate education, training, technical knowledge, skills, and experience for all personnel involved in inspection activities.
 

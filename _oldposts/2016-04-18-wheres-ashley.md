@@ -1,48 +1,17 @@
 ---
-id: 47041
-title: 'Where&#8217;s Ashley'
-date: 2016-04-18T13:06:13+00:00
-author: Valli
-layout: default
-guid: https://www.fedramp.gov/?p=47041
+
+title: 'Where's Ashley'
+layout: blog-list
 permalink: /wheres-ashley/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:4:{s:88:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley.png";i:43899;s:97:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-1024x381.png";i:43899;s:96:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-300x111.png";i:43899;s:96:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-768x285.png";i:43899;}'
-categories:
-  - FedRAMP
-  - Newsletter
-  - Newsroom
-  - WheresAshley
+body-class: page-blog
 ---
 <img class="alignnone wp-image-43899 size-large" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-1024x381.png" alt="Where's Ashley" width="1024" height="381" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-1024x381.png 1024w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-300x111.png 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-768x285.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 It’s been a great month working with multiple agencies, CSPs, 3PAOs and the public as part of both the Agency Roadshow and #WheresAshley campaigns. In one day alone this month, I met with six CSPs working with Agencies and two Agency partners!
 
-This month, I traveled to Austin, Texas, in collaboration with the Presidential Innovation Fellows (PIF) to participate in the Apps.gov launch at SXSW. Apps.gov is a PIF initative to provide Agencies with a one-stop shop to explore, compare and quickly evaluate SaaS providers.  Check it out: [https://apps.gov](https://apps.gov)! 
+This month, I traveled to Austin, Texas, in collaboration with the Presidential Innovation Fellows (PIF) to participate in the Apps.gov launch at SXSW. Apps.gov is a PIF initative to provide Agencies with a one-stop shop to explore, compare and quickly evaluate SaaS providers.  Check it out: [https://apps.gov](https://apps.gov)!
 
-Additionally, Matt Goodrich and I participated in the ACT-IAC Rocky Mountain Chapter&#8217;s &#8220;FedRAMP 101 and Accelerated Event&#8221; at the Federal Center in Denver, Colorado. This was an exciting opportunity to collaborate with the largest Federal contingency outside of the Washington D.C. area. Agencies, CSPs, and 3PAOs joined FedRAMP and ACT-IAC in this informative half-day session, providing additional context to FedRAMP Accelerated, a FedRAMP 101 refresher, a comprehensive Q&A and networking. 
+Additionally, Matt Goodrich and I participated in the ACT-IAC Rocky Mountain Chapter's FedRAMP 101 and Accelerated Event at the Federal Center in Denver, Colorado. This was an exciting opportunity to collaborate with the largest Federal contingency outside of the Washington D.C. area. Agencies, CSPs, and 3PAOs joined FedRAMP and ACT-IAC in this informative half-day session, providing additional context to FedRAMP Accelerated, a FedRAMP 101 refresher, a comprehensive Q&A and networking.
 
 I continued my FedRAMP Agency Evangelist journey in meeting with multiple Agencies as part of the #WheresAshley and Agency Roadshow campaigns. This month, I met with Comptroller of the Currency, SEC, VA, NSF, DoD, Census, Treasury, FBI, DOJ, NASA, HUD, GSA, and USAID. And that’s just in the last 30 days!
 

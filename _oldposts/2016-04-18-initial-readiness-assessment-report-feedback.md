@@ -1,37 +1,9 @@
 ---
-id: 47121
+
 title: Initial Readiness Assessment Report Feedback
-date: 2016-04-18T12:03:17+00:00
-author: Valli
-layout: default
-guid: https://www.fedramp.gov/?p=47121
+layout: blog-list
 permalink: /initial-readiness-assessment-report-feedback/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-categories:
-  - FedRAMP
-  - Newsletter
-  - Newsroom
+body-class: page-blog
 ---
 On March 28, 2016 the FedRAMP Program Management Office (PMO) posted a draft of the FedRAMP Readiness Assessment Report and FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs for public comment and have heard from many of you.
 
@@ -41,15 +13,15 @@ In addition to the comments we’ve been receiving, we’ve collected feedback i
 
 So far, we’ve heard a lot of great feedback some of which is listed below:
 
-  * **Define Readiness Assessment Report Evidence** &#8211; The PMO’s expectation is that 3PAOs will perform physical examinations (including an on-site visit), observations, evidence reviews, assessments of the trustworthiness of evidence, and personnel interviews in order to complete the FedRAMP Readiness Assessment Report. We heard that we need to clarify this in the FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs. The Readiness Assessment Report should not be based on documentation created by the CSP.
+  * **Define Readiness Assessment Report Evidence** , The PMO’s expectation is that 3PAOs will perform physical examinations (including an on-site visit), observations, evidence reviews, assessments of the trustworthiness of evidence, and personnel interviews in order to complete the FedRAMP Readiness Assessment Report. We heard that we need to clarify this in the FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs. The Readiness Assessment Report should not be based on documentation created by the CSP.
 
-  * **Clarify Capability Level Criteria** &#8211; FedRAMP needs to provide additional guidance in the FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs on the Capability Levels. We need to identify which capabilities have a minimum acceptable threshold and which capabilities require a 3PAO’s judgment given each individual system’s requirements. We should also provide guidance on how to interpret the capability levels, as some are not intuitive given the FedRAMP requirements. In addition, we should clarify if and/or how the Personnel Security/Credentialing and Physical and Environmental descriptions should be taken into account for the overall system rating.
+  * **Clarify Capability Level Criteria** , FedRAMP needs to provide additional guidance in the FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs on the Capability Levels. We need to identify which capabilities have a minimum acceptable threshold and which capabilities require a 3PAO’s judgment given each individual system’s requirements. We should also provide guidance on how to interpret the capability levels, as some are not intuitive given the FedRAMP requirements. In addition, we should clarify if and/or how the Personnel Security/Credentialing and Physical and Environmental descriptions should be taken into account for the overall system rating.
 
-  * **Rationale for 3PAO Decisions** &#8211; We’re looking for 3PAOs to provide the rationale behind their decisions, and we heard that we need to provide additional guidance explaining that.
+  * **Rationale for 3PAO Decisions** , We’re looking for 3PAOs to provide the rationale behind their decisions, and we heard that we need to provide additional guidance explaining that.
 
-  * **Conflict of Interest** &#8211; The PMO should clarify conflict of interest concerns, such as whether a 3PAO can perform both a readiness assessment and a full security assessment.
+  * **Conflict of Interest** , The PMO should clarify conflict of interest concerns, such as whether a 3PAO can perform both a readiness assessment and a full security assessment.
 
-  * **Overall Grade** &#8211; The guidance document does not specify whether 3PAOs should use a mathematical formula, or simply best judgment for selecting Level I-V value for overall system. We will clarify further.
+  * **Overall Grade** , The guidance document does not specify whether 3PAOs should use a mathematical formula, or simply best judgment for selecting Level I-V value for overall system. We will clarify further.
 
 The FedRAMP PMO is looking forward to receiving your comments to continue improving this new process. Please submit your feedback on both the FedRAMP Readiness Assessment Report and the FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs. The period for public comment ends on April 28, 2016.
 

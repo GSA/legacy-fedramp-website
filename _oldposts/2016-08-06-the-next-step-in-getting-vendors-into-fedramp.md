@@ -1,9 +1,9 @@
 ---
-id: 60451
+
 title: 'FedRAMP Ready: The Next Step In Getting Vendors into FedRAMP'
 date: 2016-08-06T13:33:26+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=60451
 permalink: /the-next-step-in-getting-vendors-into-fedramp/
 make_faq_page:

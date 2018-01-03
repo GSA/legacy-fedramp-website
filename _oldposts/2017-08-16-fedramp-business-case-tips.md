@@ -1,9 +1,9 @@
 ---
-id: 67435
+
 title: FedRAMP Business Case Tips!
 date: 2017-08-16T15:25:01+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67435
 permalink: /fedramp-business-case-tips/
 amazonS3_cache:
@@ -36,17 +36,17 @@ categories:
   - FedRAMP Blog
   - Focus on FedRAMP
 ---
-As the August 25th due date for the [FedRAMP Business Case](https://gsa-burra.formstack.com/forms/fedramp_business_case_for_jab_prioritization) approaches, we have been receiving some questions from Cloud Service Providers (CSPs) about how to best prove their demand &#8211; which is the most heavily weighted [criteria](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-JAB-PATO-Prioritization-Criteria-11102016-21.pdf) for prioritization. There are several ways to prove demand for your Cloud Service Offering (CSO) when completing your FedRAMP Business Case:
+As the August 25th due date for the [FedRAMP Business Case](https://gsa-burra.formstack.com/forms/fedramp_business_case_for_jab_prioritization) approaches, we have been receiving some questions from Cloud Service Providers (CSPs) about how to best prove their demand , which is the most heavily weighted [criteria](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-JAB-PATO-Prioritization-Criteria-11102016-21.pdf) for prioritization. There are several ways to prove demand for your Cloud Service Offering (CSO) when completing your FedRAMP Business Case:
 
-<li style="font-weight: 400">
-  <b>Current Government Customers:</b> Upload a list of current customers and the contract information (name, number, period of performance) and government point of contact for your work. We will not contact your customers without letting you know and receive your permission first. You can also upload copies of emails to your Business Case or have your current customers email us directly at info@fedramp.gov verifying that they do use your CSO. Both of these forms of verification are equally acceptable.  
-</li>
-<li style="font-weight: 400">
-  <b>Current Government Customers Using the On-premise Version of your CSO:</b> Uploading a copy of an email to the Business Case or having your current on-premise customers email us directly at <a href="mailto:info@fedramp.gov">info@fedramp.gov</a> verifying that they do use your service and would be potentially interested in moving to the cloud if your CSO obtained a FedRAMP Authorization. This is not binding in any way and requires no commitment from your customer to move. 
-</li>
-<li style="font-weight: 400">
-  <b>Potential Federal Agency Customers: </b>Uploading a copy of an e-mail to the Business Case or having a potential customers email us directly at info@fedramp.gov verifying that they are actively interested in your CSO and would be potentially interested in acquiring your services if the CSO obtained a FedRAMP Authorization. This is not binding in any way and requires no commitment from them. 
-</li>
+
+  **Current Government Customers:** Upload a list of current customers and the contract information (name, number, period of performance) and government point of contact for your work. We will not contact your customers without letting you know and receive your permission first. You can also upload copies of emails to your Business Case or have your current customers email us directly at info@fedramp.gov verifying that they do use your CSO. Both of these forms of verification are equally acceptable.  
+
+
+  **Current Government Customers Using the On-premise Version of your CSO:** Uploading a copy of an email to the Business Case or having your current on-premise customers email us directly at <a href="mailto:info@fedramp.gov">info@fedramp.gov</a> verifying that they do use your service and would be potentially interested in moving to the cloud if your CSO obtained a FedRAMP Authorization. This is not binding in any way and requires no commitment from your customer to move. 
+
+
+  **Potential Federal Agency Customers: **Uploading a copy of an e-mail to the Business Case or having a potential customers email us directly at info@fedramp.gov verifying that they are actively interested in your CSO and would be potentially interested in acquiring your services if the CSO obtained a FedRAMP Authorization. This is not binding in any way and requires no commitment from them. 
+
 
 <img class=" wp-image-67309 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/FedRAMP-Connect-Logo.png" alt="" width="311" height="391" />
 

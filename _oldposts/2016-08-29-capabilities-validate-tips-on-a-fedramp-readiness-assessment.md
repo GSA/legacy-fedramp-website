@@ -1,9 +1,9 @@
 ---
-id: 61921
+
 title: Capabilities! Validate! Tips on a FedRAMP Readiness Assessment
 date: 2016-08-29T11:09:32+00:00
 author: Matt Goodrich
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=61921
 permalink: /capabilities-validate-tips-on-a-fedramp-readiness-assessment/
 make_faq_page:
@@ -43,11 +43,11 @@ categories:
 
 “Focus on capabilities and validate those capabilities”
 
-This is a phrase I used over and over again during the course of the webinars. This is the intent of the RAR &#8211; this is not a document exercise, but instead, an initial test of the system’s capabilities.
+This is a phrase I used over and over again during the course of the webinars. This is the intent of the RAR , this is not a document exercise, but instead, an initial test of the system’s capabilities.
 
 “The intent is to _determine_ Readiness, not _guarantee_ it.”
 
-We believe a majority of CSPs will not pass a readiness assessment the first time they engage with a 3PAO. This is not a bad thing &#8211; we want our CSPs to understand their capabilities prior to entering into a full FedRAMP Assessment. A RAR will allow a CSP to validate their capabilities or potentially identify any key gaps they must address before engaging with FedRAMP. 
+We believe a majority of CSPs will not pass a readiness assessment the first time they engage with a 3PAO. This is not a bad thing , we want our CSPs to understand their capabilities prior to entering into a full FedRAMP Assessment. A RAR will allow a CSP to validate their capabilities or potentially identify any key gaps they must address before engaging with FedRAMP. 
 
 **Some lessons learned from the first few FedRAMP Ready Assessments:**
 
@@ -55,7 +55,7 @@ We believe a majority of CSPs will not pass a readiness assessment the first tim
 
 The boundary is the hardest part of defining any system. Due to this, the RAR requires that 3PAOs complete a discovery scan of a system as well as analyze all border devices for network traffic and configurations. This is to ensure that a boundary is _accurate_. In addition to this 3PAOs have to ensure the boundary is not only accurate, but makes sense as well.
 
-“Documentation mustn&#8217;t be complete, but at least started.”
+“Documentation mustn't be complete, but at least started.”
 
 CSPs do not have to have 100% completed documentation in order to be deemed FedRAMP Ready. However, any mature organization does have to have procedures and policies documented, they must have at least a good start on documenting their FedRAMP implementations. This demonstrates a maturity needed to be able to get through FedRAMP.
 
@@ -69,26 +69,26 @@ An approved RAR by the FedRAMP PMO will give CSPs a better ability to attract Fe
 
 If a CSP would like to be [prioritized for a provisional authorization](https://www.fedramp.gov/fedramp-jab-prioritization-help-us-shape-who-works-with-the-jab/) by the JAB, then an approved RAR will be the first go/no-go decision point for prioritization. This is a critical step in the requirements for going to the JAB.
 
-Additionally, attached is some <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR_A-guide-for-3PAO_08262016_V6-1-2.pdf">collateral</a> we’ve created for our 3PAOs that summarizes the webinars and provides a lot of helpful information for 3PAOs as well as CSPs. We expect to continue to update the RAR as we continue to work through FedRAMP Accelerated &#8211; so, as always, please provide any input or feedback through [info@fedramp.gov](mailto:info@fedramp.gov)!
+Additionally, attached is some <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR_A-guide-for-3PAO_08262016_V6-1-2.pdf">collateral</a> we’ve created for our 3PAOs that summarizes the webinars and provides a lot of helpful information for 3PAOs as well as CSPs. We expect to continue to update the RAR as we continue to work through FedRAMP Accelerated , so, as always, please provide any input or feedback through [info@fedramp.gov](mailto:info@fedramp.gov)!
 
 Email your completed Comment Matrix files to [info@fedramp.gov](http://info@fedramp.gov) with “Readiness Capabilities Recommendations” in the subject line.
 
 <table style="width: 100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th style="width: 400px;text-align: left" scope="col">
-      <strong>Document Name</strong>
+      Document Name
     </th>
     
     <th style="width: 400px;text-align: left" scope="col">
-      <strong>Document Link</strong>
+      Document Link
     </th>
   </tr>
   
   <tr>
     <td style="width: 400px">
-      <p style="text-align: left">
+      
         FedRAMP Readiness Assessments: A Guide for 3PAOs
-      </p>
+      
     </td>
     
     <td style="width: 400px;text-align: center">

@@ -1,40 +1,8 @@
 ---
-id: 29212
 title: June 2015 FedRAMP Newsletter
-date: 2015-06-15T13:56:54+00:00
-author: FedRAMP
-layout: default
-guid: https://www.fedramp.gov/?p=29212
+layout: blog-list
 permalink: /june-2015-fedramp-newsletter/
-make_faq_page:
-  - ""
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-custom_exerpt:
-  - ""
-amazonS3_cache:
-  - 'a:6:{s:117:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1-e1434390873102.png";i:27822;s:110:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/VirtuStream-Logo-new-e1434390999575.png";i:15402;s:117:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Appian_DiamondLogo_solidRED-e1434032622483.jpg";i:28922;s:95:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb.png";i:29552;s:102:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1.png";a:1:{s:9:"timestamp";i:1485460718;}s:103:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb-150x150.png";i:29552;}'
-categories:
-  - Featured
-  - FedRAMP
-  - FedRAMP Compliant
-  - General
-  - Newsletter
-  - Newsroom
-  - Tips
-  - Training
+body-class: page-blog
 ---
 ## [<img class="alignnone size-full wp-image-27822" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1-e1434390873102.png" alt="FedRAMP newsletter header (1)" width="1000" height="256" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1.png)
 
@@ -47,7 +15,7 @@ The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
     <td width="123">
        <img class=" size-full wp-image-15402 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/VirtuStream-Logo-new-e1434390999575.png" alt="VirtuStream logo" width="180" height="55" />
     </td>
-    
+
     <td width="319">
       <a href="https://www.fedramp.gov/marketplace/compliant-systems/virtustream-inc-federal-cloud-services-vfc/">Virtustream Inc.</a> received a JAB Provisional Authorization on June 5, 2015. <a href="https://www.fedramp.gov/marketplace/compliant-systems/virtustream-inc-federal-cloud-services-vfc/">Virtustream Federal Cloud (VFC)</a> is an Infrastructure as a Service (Iaas). The company describes their product, xStream, as “secure, high-performance cloud software” that enables governments to run secure public clouds.
     </td>
@@ -59,7 +27,7 @@ The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
     <td width="123">
        <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Appian_DiamondLogo_solidRED-e1434032622483.jpg"><img class=" size-full wp-image-28922 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Appian_DiamondLogo_solidRED-e1434032622483.jpg" alt="Appian_DiamondLogo_solidRED" width="180" height="103" /></a>
     </td>
-    
+
     <td width="319">
       <a href="https://www.fedramp.gov/marketplace/compliant-systems/appian-corporation-appian-cloud-2/">Appian</a> received an Agency Authorization through the Federal Transit Administration (FTA) on April 23, 2015. <a href="https://www.fedramp.gov/marketplace/compliant-systems/appian-corporation-appian-cloud-2/">Appian Cloud</a> is a dual Platform as a Service (PaaS)/Software as a Service. This enterprise application that unites users with all their date, processes, and collaborations – in one environment, on any mobile device, through a social interface. With Appian Cloud, Federal Agencies can rapidly build, deploy, use, and scale innovative apps.
     </td>
@@ -68,8 +36,8 @@ The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
 
 FedRamp now has 36 compliant CSP systems. A complete list of all FedRAMP compliant CSPs can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/virtustream-inc-federal-cloud-services-vfc/).
 
-## _Feature Item: <img class="alignnone  wp-image-29552" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb.png" alt="newsletter_lightbulb" width="61" height="61" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb.png 268w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb-150x150.png 150w" sizes="(max-width: 61px) 100vw, 61px" />_
-  
+## Feature Item
+
 The Value of Quality Management to CSPs
 
 Cloud Service Providers (CSPs) who incorporate Quality Management into their Authorization Package development projects will realize a return on their investment throughout the FedRAMP Review process. Quality documentation is clear, concise, consistent, and complete. Quality documentation minimizes costly rework and time consuming delays caused by clarifying misunderstandings and waiting for missing documentation. FedRAMP requires quality documentation to provide a clear and complete description of the risk posture of a cloud system and reduce an Agency’s level of effort to reuse an Authorization Package. _[Read More.](https://www.fedramp.gov/?p=29282)_
@@ -86,17 +54,17 @@ FedRAMP requires all Authorized Cloud Service Providers (CSP) to perform at leas
 
 On June 3, 2015, the FedRAMP PMO released the “JAB Provisional Authorization (P-ATO) Vulnerability Scan Requirements Guide.” This document describes the requirements for all vulnerability scans of FedRAMP CSP products. Consult the guide for a full listing of vulnerability scan requirements.
 
-<h3 style="text-align: center">
-  Upcoming Events:
-</h3>
+
+## Upcoming Events:
+
 
   *        [Cloud Computing Brainstorm](https://www.fedramp.gov/event/cloud-computing-brainstorm/)
   *        [ATARC Federal Cloud Computing Summit](https://www.fedramp.gov/event/atarc-summit/)
   *        [AFCEA Annual Senior Government Executive Dinner](https://www.fedramp.gov/event/8th-annual-senior-government-executive-dinner/)
 
-<h3 style="text-align: center">
-  FedRAMP in the News:
-</h3>
+
+## FedRAMP in the News:
+
 
   * [Appian receives FedRAMP authorization](http://www.digitaljournal.com/pr/2587261) (Digital Journal)
   * [Virtustream, future EMC unit, gains U.S. cloud approval](http://www.enterprisetech.com/2015/06/11/virtustream-future-emc-unit-gains-u-s-cloud-approval/) (Enterprise Tech)
@@ -109,5 +77,3 @@ On June 3, 2015, the FedRAMP PMO released the “JAB Provisional Authorization (
   * [GSA to Agencies: Don’t use FedRAMP to screen out potential bidders](http://www.nextgov.com/emerging-tech/emerging-tech-blog/2015/06/gsa-agencies-dont-use-fedramp-screen-out-potential-bidders/114256/) (NextGov)
   * [Autodesk cloud offerings achieve milestones in FedRAMP compliance (Government](http://www.gsnmagazine.com/article/44581/autodesk_cloud_offerings_achieve_milestone_fedramp) Security News)
   * [Autodesk kicks off FedRAMP certification process](http://blog.executivebiz.com/2015/05/autodesk-kicks-off-fedramp-certification-process/) (ExecutiveBiz)
-
-&nbsp;

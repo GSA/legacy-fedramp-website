@@ -1,9 +1,9 @@
 ---
-id: 67455
-title: 'Business Case Due Date Extended &#8211; Set up call with PMO for feedback!'
+
+title: 'Business Case Due Date Extended , Set up call with PMO for feedback!'
 date: 2017-08-22T10:13:43+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67455
 permalink: /business-case-due-date-extended-set-up-call-with-pmo-for-feedback/
 make_faq_page:

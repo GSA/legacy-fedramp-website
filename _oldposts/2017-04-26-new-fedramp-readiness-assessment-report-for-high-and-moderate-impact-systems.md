@@ -1,9 +1,9 @@
 ---
-id: 66849
+
 title: New FedRAMP Readiness Assessment Report for High and Moderate Impact Systems
 date: 2017-04-26T07:22:04+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66849
 permalink: /new-fedramp-readiness-assessment-report-for-high-and-moderate-impact-systems/
 make_faq_page:
@@ -42,15 +42,15 @@ Additionally, we incorporated updates to the [Moderate RAR Template](https://s3.
 
 The FedRAMP High RAR Template places emphasis on the use of automated mechanisms for control implementations and addresses the following key items required for an authorization at the high impact level:
 
-<li style="font-weight: 400">
+
   The requirement to include all services of the system to reside within the authorization boundary
-</li>
-<li style="font-weight: 400">
+
+
   The requirement for authentication mechanisms meeting eAuth Level 4 requirements
-</li>
-<li style="font-weight: 400">
-  High controls that have been identified as particularly challenging &#8211; either in terms of cost or technical complexity
-</li>
+
+
+  High controls that have been identified as particularly challenging , either in terms of cost or technical complexity
+
 
 All RARs submitted to the FedRAMP PMO must use this new version of the template immediately. 
 

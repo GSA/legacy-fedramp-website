@@ -1,9 +1,9 @@
 ---
-id: 62451
+
 title: FedRAMP Needs Your Feedback
 date: 2016-09-16T09:24:06+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=62451
 permalink: /fedramp-needs-your-feedback/
 make_faq_page:
@@ -48,4 +48,3 @@ Please respond to the [Training Needs](https://goo.gl/forms/14jnjk1gEwdJCApB3) s
 
 Contact [info@fedramp.gov](mailto:info@fedramp.gov) with any questions.
 
-&nbsp;

@@ -1,39 +1,8 @@
 ---
-id: 44771
 title: '#WheresAshley Update'
-date: 2016-03-15T14:08:09+00:00
-author: FedRAMP
-layout: default
-guid: https://www.fedramp.gov/?p=44771
+layout: blog-list
 permalink: /wheresashley-update/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'Yes'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:4:{s:88:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley.png";i:43899;s:96:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-300x111.png";i:43899;s:96:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-768x285.png";i:43899;s:97:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-1024x381.png";i:43899;}'
-categories:
-  - Agencies
-  - Newsletter
-  - Newsroom
+body-class: page-blog
 ---
 <img class="alignnone size-full wp-image-43899" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley.png" alt="Where's Ashley" width="1612" height="599" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley.png 1612w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-300x111.png 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-768x285.png 768w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/01/Wheres-Ashley-1024x381.png 1024w" sizes="(max-width: 1612px) 100vw, 1612px" />
 
@@ -43,16 +12,11 @@ In these meetings Ashley provides education about cloud computing, US government
 
 Ashley’s goal is to create a uniform understanding of FedRAMP across the Federal government and increase the adoption of cloud and FedRAMP at the same time. Here are some key takeaways from Ashley’s most recent chats on her campaigns:
 
-<li style="font-weight: 400">
-  Agencies are moving more and more core agency functions to the cloud in order to benefit from the cost savings of cloud. 
-</li>
-<li style="font-weight: 400">
-  Agencies like the unified framework of FedRAMP for how security is completed, but have gaps in understanding how to fully utilize FedRAMP at their agency.
-</li>
-<li style="font-weight: 400">
-  Establishing a POC for FedRAMP at each agency is  critical as FedRAMP moves forward to help agencies work together with FedRAMP &#8211; both on authorizations and leveraging authorizations from the JAB or other agencies.
-</li>
+* Agencies are moving more and more core agency functions to the cloud in order to benefit from the cost savings of cloud.
 
-Ashley visits several Federal agencies each week &#8211; if she hasn’t visited you and you want to meet, reach out to her at [agency@FedRAMP.gov](mailto:agency@fedramp.gov). These key takeaways above are just the beginning and your agency meeting with Ashley will help shape how Ashley engages with agencies and how she can help move adoption of FedRAMP further. You can follow her adventures on Twitter at [@FedRAMPAshley](https://twitter.com/fedrampashley) and the hashtags #AgencyRoadshow and #WheresAshley. 
+* Agencies like the unified framework of FedRAMP for how security is completed, but have gaps in understanding how to fully utilize FedRAMP at their agency.
 
-&nbsp;
+* Establishing a POC for FedRAMP at each agency is  critical as FedRAMP moves forward to help agencies work together with FedRAMP , both on authorizations and leveraging authorizations from the JAB or other agencies.
+
+
+Ashley visits several Federal agencies each week , if she hasn’t visited you and you want to meet, reach out to her at [agency@FedRAMP.gov](mailto:agency@fedramp.gov). These key takeaways above are just the beginning and your agency meeting with Ashley will help shape how Ashley engages with agencies and how she can help move adoption of FedRAMP further. You can follow her adventures on Twitter at [@FedRAMPAshley](https://twitter.com/fedrampashley) and the hashtags #AgencyRoadshow and #WheresAshley.

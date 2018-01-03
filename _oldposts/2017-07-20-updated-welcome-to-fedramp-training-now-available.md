@@ -1,9 +1,9 @@
 ---
-id: 67352
-title: 'Updated &#8220;Welcome to FedRAMP&#8221; Training Now Available'
+
+title: 'Updated Welcome to FedRAMP Training Now Available'
 date: 2017-07-20T14:16:14+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=67352
 permalink: /updated-welcome-to-fedramp-training-now-available/
 amazonS3_cache:
@@ -33,24 +33,24 @@ post_featpages:
 categories:
   - General
 ---
-We’re excited to launch our newly revamped &#8220;<em>FedRAMP 100-A: Welcome to FedRAMP</em>&#8221; online training course, which serves as an update to the original 100-A training developed in 2015. This one-hour introductory course in theFedRAMP Training Series is intended for Cloud Service Providers (CSPs) and Third Party Assessment Organizations (3PAOs) who aren’t well acquainted with FedRAMP. However, it serves as an excellent source of information for anyone in government or the private sector who wants to learn more about the program. 
+We’re excited to launch our newly revamped <em>FedRAMP 100-A: Welcome to FedRAMP</em> online training course, which serves as an update to the original 100-A training developed in 2015. This one-hour introductory course in theFedRAMP Training Series is intended for Cloud Service Providers (CSPs) and Third Party Assessment Organizations (3PAOs) who aren’t well acquainted with FedRAMP. However, it serves as an excellent source of information for anyone in government or the private sector who wants to learn more about the program. 
 
 The Welcome to FedRAMP online course illustrates how FedRAMP standardizes the way the government does security authorizations for cloud products and services in four essential ways by:
 
 <img class="wp-image-67353 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/07/FedRAMP-icon_and_cover-for-templates_04262017_V1-46.png" alt="" width="208" height="208" />
 
-<li style="font-weight: 400">
+
   Doing security authorizations once and reusing them often to reduce or minimize duplication;
-</li>
-<li style="font-weight: 400">
+
+
   Creating a community of practice across the U.S. Government and industry that did not exist before to increase collaboration and transparency;
-</li>
-<li style="font-weight: 400">
+
+
   Validating security authorizations to ensure that there is uniformity among security packages; and
-</li>
-<li style="font-weight: 400">
+
+
   Enabling a centralized repository where agencies can request access to security packages for expedient authorizations.
-</li>
+
 
 FedRAMP ensures there is a uniform risk management approach with a standard set of approved minimum security controls (Low, Moderate, High Impact), a consistent assessment process, and a Provisional Authorization To Operate (P-ATO) or an Agency Authorization.
 

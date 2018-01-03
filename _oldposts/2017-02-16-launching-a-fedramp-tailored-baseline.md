@@ -1,9 +1,9 @@
 ---
-id: 66551
+
 title: Launching a FedRAMP Tailored Baseline
 date: 2017-02-16T12:55:15+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66551
 permalink: /launching-a-fedramp-tailored-baseline/
 amazonS3_cache:
@@ -36,7 +36,7 @@ categories:
   - FedRAMP Blog
   - Focus on FedRAMP
 ---
-We are excited to announce that the FedRAMP _Tailored _baseline is available for public comment. The public comment period ends on March 17, 2017&#8211;<a href="https://tailored.fedramp.gov/">we welcome your feedback</a>.
+We are excited to announce that the FedRAMP _Tailored _baseline is available for public comment. The public comment period ends on March 17, 2017,<a href="https://tailored.fedramp.gov/">we welcome your feedback</a>.
 
 FedRAMP was originally built around enterprise-wide solutions that would cover the broadest range of data types for cloud architectures moving into the Federal space. FedRAMP currently has three sets of baseline security requirements: Low, Moderate, and High impact based on FIPS 199 categorization.
 
@@ -48,24 +48,24 @@ We hope FedRAMP _Tailored _will provide a way in which FedRAMP can support the n
 
 We have drafted specific criteria to enable agencies to determine which types of cloud services may qualify for FedRAMP _Tailored_.  The answer to all of the following questions must be “yes” in order for _Tailored_ to apply:
 
-<li style="font-weight: 400">
+
   Does the service operate in the cloud?
-</li>
-<li style="font-weight: 400">
+
+
   Is the cloud service fully operational (e.g. not under development)?
-</li>
-<li style="font-weight: 400">
+
+
   Is the cloud service a Software application (SaaS), rather than Infrastructure (IaaS) or a Platform (PaaS)?
-</li>
-<li style="font-weight: 400">
+
+
   Can the cloud service provide services without requiring the collection of personally identifiable information (PII)?
-</li>
-<li style="font-weight: 400">
+
+
   Is the cloud service low-security-impact, according to the FIPS 199 definition?
-</li>
-<li style="font-weight: 400">
+
+
   Is the cloud service hosted within an existing FedRAMP authorized infrastructure, where pre-existing controls and validations can be inherited?
-</li>
+
 
 If the answers are “yes” and the agency authorizing official agrees, then such  low-impact cloud services are the targets for FedRAMP _Tailored!_
 

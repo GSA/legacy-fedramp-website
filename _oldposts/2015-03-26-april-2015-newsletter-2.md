@@ -1,34 +1,8 @@
 ---
-id: 25172
 title: April 2015 Newsletter
-date: 2015-03-26T14:09:29+00:00
-author: FedRAMP
-layout: default
-guid: https://www.fedramp.gov/?p=25172
+layout: blog-list
 permalink: /april-2015-newsletter-2/
-make_faq_page:
-  - ""
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:6:{s:102:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic.jpg";i:25692;s:110:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-300x149.jpg";i:25692;s:85:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Light-Bulb.jpg";i:26142;s:100:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header.png";a:1:{s:9:"timestamp";i:1485465770;}s:109:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header-1024x261.png";a:1:{s:9:"timestamp";i:1485465770;}s:111:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-1024x511.jpg";i:25692;}'
-categories:
-  - General
-  - Newsletter
-  - Newsroom
-  - Resource
+body-class: page-blog
 ---
 ## [<img class="alignnone wp-image-24482 size-large" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header-1024x261.png" alt="FedRAMP newsletter header" width="1024" height="261" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header.png)
 
@@ -38,8 +12,8 @@ The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
 
 Agency ATO:
 
-  * [Avue Technologies &#8211; Avue Digital Services](https://www.fedramp.gov/?p=16192)
-  * [Huddle &#8211; Huddle](https://www.fedramp.gov/?p=16742)
+  * [Avue Technologies , Avue Digital Services](https://www.fedramp.gov/?p=16192)
+  * [Huddle , Huddle](https://www.fedramp.gov/?p=16742)
 
 FedRAMP now has 34 compliant CSP systems! A complete list of all FedRAMP compliant CSPs can be viewed [here](https://www.fedramp.gov/?p=782).
 
@@ -49,8 +23,8 @@ FedRAMP now has 34 compliant CSP systems! A complete list of all FedRAMP complia
 
 FedRAMP and TIC are seeking US Federal Departments and Agencies, CSPs, and other stakeholders to provide comments on this DRAFT overlay. The 30 day open comment period is from April 2, 2015 to May 1, 2015. All details about this request for feedback and documents to review are available at: [www.FedRAMP.gov](https://www.fedramp.gov/?p=18862).
 
-<h2 style="text-align: center">
-</h2>
+
+
 
 ## **New 3PAOs**
 
@@ -64,7 +38,7 @@ A full listing of all FedRAMP accredited 3PAOs can be viewed [here](https://www.
 
 ## **<img class="alignnone wp-image-26142" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Light-Bulb.jpg" alt="Light Bulb" width="67" height="71" />FedRAMP Tip of the Month:**
 
-There’s no time like the present. While the requirement for notifying your FedRAMP ISSO on any significant change to your environment is at least 30 days, letting us know earlier rather than later of the potential change can help diffuse any questions and ensure the appropriate process is followed. Please keep in mind that a Significant Change Form (significant change as defined in the approved SSP), Security Impact Analysis, and appropriate supporting artifacts (if applicable: network topology, data-flow diagram, scan results, etc.) must be provided to your ISSO for review prior to implementing the change.  Your ISSO will review the proposed change for any impacts to your environment&#8217;s security posture and determine next steps.
+There’s no time like the present. While the requirement for notifying your FedRAMP ISSO on any significant change to your environment is at least 30 days, letting us know earlier rather than later of the potential change can help diffuse any questions and ensure the appropriate process is followed. Please keep in mind that a Significant Change Form (significant change as defined in the approved SSP), Security Impact Analysis, and appropriate supporting artifacts (if applicable: network topology, data-flow diagram, scan results, etc.) must be provided to your ISSO for review prior to implementing the change.  Your ISSO will review the proposed change for any impacts to your environment's security posture and determine next steps.
 
 The Significant Change Form can be found here: <https://www.fedramp.gov/resources/templates-3/>**** ****
 
@@ -76,9 +50,9 @@ Have you?
   * Followed [@FedRAMP](http://twitter.com/FedRAMP) on Twitter? Stay up-to-date with news and upcoming events as well as interact with the PMO.
   * Follow the FedRAMP team too! Find FedRAMP Director Matt GoodRich at [@MrFedRAMP](http://twitter.com/MrFedRAMP), Program Manager for Cybersecurity Claudio Belloli at [@SecureCloudio](http://twitter.com/SecureCloudio), and Program Manager for Operations John Hamilton at [@HamiCoud](http://twitter.com/HamiCloud).
 
-<h2 style="text-align: center">
-  <b>Upcoming Events</b>
-</h2>
+
+  **Upcoming Events**
+
 
   * April 21: [ISACA National Capital Area Chapter](https://www.fedramp.gov/?p=26232). Rosslyn, VA
   * April 22: [RSA Conference](https://www.fedramp.gov/?p=24342), San Francisco, CA
@@ -86,31 +60,31 @@ Have you?
   * May 5: [Cloud Security Alliance Federal Summit](https://www.fedramp.gov/?p=24262), Washington DC
   * May 14: [FedRAMP Forum](https://www.fedramp.gov/?p=26032), Falls Church, VA
 
-<h2 style="text-align: center">
-  <b>FedRAMP in the News</b>
-</h2>
 
-  * [FedRAMP: What you need to know](http://www.csoonline.com/article/2906982/security-leadership/fedramp-what-you-need-to-know.html) &#8211; CSO Online
-  * [FedRAMP eyes TIC overlay](http://www.wjla.com/articles/2015/04/fedramp-eyes-tic-overlay-113133.html) &#8211; WJLA
-  * [GSA unveils plan to allow TIC compliance for FedRAMP services](http://fcw.com/articles/2015/04/02/fedramp-tic-overlay.aspx) &#8211; FCW.com
-  * [DHS trying to smooth the integration of cloud, network security programs](http://www.federalnewsradio.com/473/3832035/DHS-trying-to-smooth-the-integration-of-cloud-network-security-programs) &#8211; FederalNewsRadio.com
-  * [FedRAMP wants to merge cloud, trusted Internet guidelines](http://www.federaltimes.com/story/government/it/cloud/2015/04/06/fedramp-cloud-tic-overlay/25364685/) &#8211; Federal Times
-  * [New FedRAMP rules aim to help agencies meet TIC requirements](http://fedscoop.com/fedramp-tic-overlay) &#8211; FedScoop
-  * [FedRAMP, DHS aim to merge TIC and cloud security authorization through single process](http://www.fiercegovernmentit.com/story/fedramp-dhs-aim-merge-tic-and-cloud-security-authorization-through-single-p/2015-04-06) &#8211; FierceGovernmentIT
-  * [New FedRAMP, DHS initiative aims to make it easier for Feds to access the cloud](http://www.nextgov.com/emerging-tech/emerging-tech-blog/2015/04/fedramp-continues-evolving-integrate-tic/109267/) &#8211; NextGov
-  * [Coalfire Public Sector completes FedRAMP audit for Huddle cloud](http://www.businesswire.com/news/home/20150326005001/en/Coalfire-Public-Sector-Completes-FedRAMP-Audit-Huddle) &#8211; Business Wire
-  * [Huddle achieves FedRAMP Authority to Operate (ATO) from USAID](http://www.digitaljournal.com/pr/2505678) &#8211; Digital Journal
-  * [Huddle cloud collab service gets FedRAMP ATO from USAID](http://blog.executivebiz.com/2015/03/huddle-cloud-collab-service-gets-fedramp-ato-from-usaid-morten-brogger-comments/) &#8211; ExecutiveBiz
-  * [A FedRAMP OK for Huddle](http://fcw.com/articles/2015/03/27/news-in-brief-march-27.aspx) &#8211; FCW.com
-  * [First cloud collaboration software gets FedRAMP approval](http://www.federaltimes.com/story/government/it/cloud/2015/03/26/cloud-collaboration-software-fedramp/70441906/) &#8211; Federal Times
-  * [Huddle earns FedRAMP ATO for its cloud collaboration](http://fedscoop.com/huddle-fedramp-ato) &#8211; FedScoop
-  * [Huddle beats Box to FedRAMP certification](http://www.forbes.com/sites/benkepes/2015/03/26/huddle-beats-box-to-fedramp-certification/) &#8211; Forbes
-  * [Huddle earns FedRAMP ATO from USAID](http://gcn.com/articles/2015/03/26/huddle-fedramp-ato.aspx) &#8211; GCN.com
-  * [Huddle’s ‘collaborative’ cloud offering latest to get FedRAMP seal of approval](http://www.nextgov.com/cloud-computing/2015/03/huddles-collaborative-cloud-offering-latest-get-fedramp-seal-approval/108529/) &#8211; NextGov
-  * [Huddle’s SaaS collaboration tool is first to win key Federal endorsement](http://siliconangle.com/blog/2015/03/26/huddles-saas-collaboration-tool-is-first-to-win-key-federal-endorsement/) &#8211; SiliconANGLE
-  * [Huddle achieves FedRAMP Authority to Operate (ATO) from USAID](http://www.virtual-strategy.com/2015/03/26/huddle-achieves-fedramp-authority-operate-ato-usaid#axzz3VW2Qy01e) &#8211; Virtual Strategy Magazine
-  * [Coalfire Public Sector completes FedRAMP audit for FedRAMP Huddle cloud](http://finance.yahoo.com/news/coalfire-public-sector-completes-fedramp-114500545.html) &#8211; Yahoo UK
-  * [Huddle garners FedRAMP certification for government cloud data](http://www.zdnet.com/article/huddle-garners-fedramp-government-wide-cloud-certification/) &#8211; ZDNet
-  * [Ninetex Workflow Solutions are now available as a FedRAMP compliant cloud service](http://news.thomasnet.com/companystory/nintex-workflow-solutions-are-now-available-as-a-fedramp-compliant-cloud-service-20042888) &#8211; Thomasnet.com
-  * [The top cloud providers for government](http://www.zdnet.com/article/the-top-cloud-providers-for-government/) &#8211; ZDNet
-  * [Sonny Hasmi, former CIO of the GSA, joins Box to lead Federal government strategy](http://www.marketwatch.com/story/sonny-hashmiformer-cio-of-the-gsa-joins-box-to-lead-federal-government-strategy-2015-03-19) &#8211; MarketWatch
+  **FedRAMP in the News**
+
+
+  * [FedRAMP: What you need to know](http://www.csoonline.com/article/2906982/security-leadership/fedramp-what-you-need-to-know.html) , CSO Online
+  * [FedRAMP eyes TIC overlay](http://www.wjla.com/articles/2015/04/fedramp-eyes-tic-overlay-113133.html) , WJLA
+  * [GSA unveils plan to allow TIC compliance for FedRAMP services](http://fcw.com/articles/2015/04/02/fedramp-tic-overlay.aspx) , FCW.com
+  * [DHS trying to smooth the integration of cloud, network security programs](http://www.federalnewsradio.com/473/3832035/DHS-trying-to-smooth-the-integration-of-cloud-network-security-programs) , FederalNewsRadio.com
+  * [FedRAMP wants to merge cloud, trusted Internet guidelines](http://www.federaltimes.com/story/government/it/cloud/2015/04/06/fedramp-cloud-tic-overlay/25364685/) , Federal Times
+  * [New FedRAMP rules aim to help agencies meet TIC requirements](http://fedscoop.com/fedramp-tic-overlay) , FedScoop
+  * [FedRAMP, DHS aim to merge TIC and cloud security authorization through single process](http://www.fiercegovernmentit.com/story/fedramp-dhs-aim-merge-tic-and-cloud-security-authorization-through-single-p/2015-04-06) , FierceGovernmentIT
+  * [New FedRAMP, DHS initiative aims to make it easier for Feds to access the cloud](http://www.nextgov.com/emerging-tech/emerging-tech-blog/2015/04/fedramp-continues-evolving-integrate-tic/109267/) , NextGov
+  * [Coalfire Public Sector completes FedRAMP audit for Huddle cloud](http://www.businesswire.com/news/home/20150326005001/en/Coalfire-Public-Sector-Completes-FedRAMP-Audit-Huddle) , Business Wire
+  * [Huddle achieves FedRAMP Authority to Operate (ATO) from USAID](http://www.digitaljournal.com/pr/2505678) , Digital Journal
+  * [Huddle cloud collab service gets FedRAMP ATO from USAID](http://blog.executivebiz.com/2015/03/huddle-cloud-collab-service-gets-fedramp-ato-from-usaid-morten-brogger-comments/) , ExecutiveBiz
+  * [A FedRAMP OK for Huddle](http://fcw.com/articles/2015/03/27/news-in-brief-march-27.aspx) , FCW.com
+  * [First cloud collaboration software gets FedRAMP approval](http://www.federaltimes.com/story/government/it/cloud/2015/03/26/cloud-collaboration-software-fedramp/70441906/) , Federal Times
+  * [Huddle earns FedRAMP ATO for its cloud collaboration](http://fedscoop.com/huddle-fedramp-ato) , FedScoop
+  * [Huddle beats Box to FedRAMP certification](http://www.forbes.com/sites/benkepes/2015/03/26/huddle-beats-box-to-fedramp-certification/) , Forbes
+  * [Huddle earns FedRAMP ATO from USAID](http://gcn.com/articles/2015/03/26/huddle-fedramp-ato.aspx) , GCN.com
+  * [Huddle’s ‘collaborative’ cloud offering latest to get FedRAMP seal of approval](http://www.nextgov.com/cloud-computing/2015/03/huddles-collaborative-cloud-offering-latest-get-fedramp-seal-approval/108529/) , NextGov
+  * [Huddle’s SaaS collaboration tool is first to win key Federal endorsement](http://siliconangle.com/blog/2015/03/26/huddles-saas-collaboration-tool-is-first-to-win-key-federal-endorsement/) , SiliconANGLE
+  * [Huddle achieves FedRAMP Authority to Operate (ATO) from USAID](http://www.virtual-strategy.com/2015/03/26/huddle-achieves-fedramp-authority-operate-ato-usaid#axzz3VW2Qy01e) , Virtual Strategy Magazine
+  * [Coalfire Public Sector completes FedRAMP audit for FedRAMP Huddle cloud](http://finance.yahoo.com/news/coalfire-public-sector-completes-fedramp-114500545.html) , Yahoo UK
+  * [Huddle garners FedRAMP certification for government cloud data](http://www.zdnet.com/article/huddle-garners-fedramp-government-wide-cloud-certification/) , ZDNet
+  * [Ninetex Workflow Solutions are now available as a FedRAMP compliant cloud service](http://news.thomasnet.com/companystory/nintex-workflow-solutions-are-now-available-as-a-fedramp-compliant-cloud-service-20042888) , Thomasnet.com
+  * [The top cloud providers for government](http://www.zdnet.com/article/the-top-cloud-providers-for-government/) , ZDNet
+  * [Sonny Hasmi, former CIO of the GSA, joins Box to lead Federal government strategy](http://www.marketwatch.com/story/sonny-hashmiformer-cio-of-the-gsa-joins-box-to-lead-federal-government-strategy-2015-03-19) , MarketWatch

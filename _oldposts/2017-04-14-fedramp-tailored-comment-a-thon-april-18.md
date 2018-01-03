@@ -1,9 +1,9 @@
 ---
-id: 66831
+
 title: FedRAMP Tailored Comment-a-thon April 18!
 date: 2017-04-14T11:09:11+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66831
 permalink: /fedramp-tailored-comment-a-thon-april-18/
 make_faq_page:
@@ -39,18 +39,18 @@ To ensure the **FedRAMP** **_Tailored_** baseline meets and exceeds our stakehol
 
 The Comment-a-thon will take place in D.C., with a virtual component available for those who cannot attend in-person:
 
-<li style="font-weight: 400">
-  <b>Date</b>: April 18th
-</li>
-<li style="font-weight: 400">
-  <b>Time</b>: 12:00pm &#8211; 4:00pm
-</li>
-<li style="font-weight: 400">
-  <b>In Person:</b> 1250 Connecticut Ave NW, Washington DC 20036 
-</li>
-<li style="font-weight: 400">
-  <b>Virtual</b>: Details will be sent via email.
-</li>
+
+  **Date**: April 18th
+
+
+  **Time**: 12:00pm , 4:00pm
+
+
+  **In Person:** 1250 Connecticut Ave NW, Washington DC 20036 
+
+
+  **Virtual**: Details will be sent via email.
+
 
 If you are interested in attending in-person or virtually, please register for the event here**:** [https://www.eventbrite.com/e/fedramp-tailored-comment-a-thon-registration-33436786328](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTcwNDExLjcyMjAwNDMxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MDQxMS43MjIwMDQzMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3ODUwOTc0JmVtYWlsaWQ9bWF0dGhldy5nb29kcmljaEBnc2EuZ292JnVzZXJpZD1tYXR0aGV3Lmdvb2RyaWNoQGdzYS5nb3YmZmw9JmV4dHJhPU11bHRpdmFyaWF0ZUlkPSYmJg==&&&100&&&https://www.eventbrite.com/e/fedramp-tailored-comment-a-thon-registration-33436786328)
   

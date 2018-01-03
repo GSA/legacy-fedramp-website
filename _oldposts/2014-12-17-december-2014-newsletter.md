@@ -1,34 +1,12 @@
 ---
-id: 20242
 title: December 2014 Newsletter
-date: 2014-12-17T00:00:20+00:00
-author: jyoo
-layout: default
-guid: https://fedramp.sites.usa.gov/?p=20242
+layout: blog-list
 permalink: /december-2014-newsletter/
-make_faq_page:
-  - ""
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-categories:
-  - General
-  - Newsroom
+body-class: page-blog
 ---
-<h3 style="text-align: center">
-  <b>FedRAMP Compliant CSPs</b>
-</h3>
+
+  **FedRAMP Compliant CSPs**
+
 
 The FedRAMP PMO is excited to announce that four new systems have joined the list of FedRAMP compliant cloud systems.
 
@@ -44,19 +22,19 @@ Additionally, the first CSP Supplied path package is now available:
 
 The brings us to a total of 27 FedRAMP compliant cloud services! The details about each offering can be found [here](https://www.fedramp.gov/marketplace/compliant-systems/)[.](http://cloud.cio.gov/fedramp/cloud-systems)
 
-<h3 style="text-align: center">
-  <b>Multiple Paths to FedRAMP Compliance</b>
-</h3>
 
-Since launch, it has been clear that there are three basic &#8220;paths&#8221; to achieving FedRAMP compliance: (1) the JAB P-ATO path (2) the Agency ATO path, and (3) the CSP-supplied path. This month with the introduction of FedRAMP’s first CSP-supplied path package, we want to review the three paths for achieving FedRAMP compliance.
+  **Multiple Paths to FedRAMP Compliance**
 
-The JAB P-ATO is arguably the most rigorous , but it is also the most time consuming (and consequentially, most expensive) path.  The Agency ATO path allows CSPs to work directly with a customer Agency to achieve a FedRAMP compliant ATO, which is verified by the FedRAMP PMO for inclusion within the FedRAMP repository.  The third path, CSP-supplied, is designed for CSPs who don&#8217;t have a current Federal footprint. In this instance, the FedRAMP PMO acts like a “clearing house” to verify a CSP has a completed security authorization package. CSPs can submit a completed package, have it reviewed and verified by the FedRAMP PMO, and have it stored in the FedRAMP secure repository for an agency to review and authorize.
+
+Since launch, it has been clear that there are three basic paths to achieving FedRAMP compliance: (1) the JAB P-ATO path (2) the Agency ATO path, and (3) the CSP-supplied path. This month with the introduction of FedRAMP’s first CSP-supplied path package, we want to review the three paths for achieving FedRAMP compliance.
+
+The JAB P-ATO is arguably the most rigorous , but it is also the most time consuming (and consequentially, most expensive) path.  The Agency ATO path allows CSPs to work directly with a customer Agency to achieve a FedRAMP compliant ATO, which is verified by the FedRAMP PMO for inclusion within the FedRAMP repository.  The third path, CSP-supplied, is designed for CSPs who don't have a current Federal footprint. In this instance, the FedRAMP PMO acts like a “clearing house” to verify a CSP has a completed security authorization package. CSPs can submit a completed package, have it reviewed and verified by the FedRAMP PMO, and have it stored in the FedRAMP secure repository for an agency to review and authorize.
 
 There are a lot of opinions about the pros and cons of each type of package. Whatever your opinion is, we at the PMO want to make sure our stakeholders understand that  no matter which path a CSP takes &#8212; JAB, Agency, or CSP supplied &#8212; at the end of the day, all three paths demonstrate FedRAMP compliance and can be leveraged by any agency. In fact, the OMB policy memo requires agencies to initiate authorizations with any existing FedRAMP compliant packages. While there may be differences in the rigor with which the package was analyzed by the Federal government, the responsibility ultimately falls on individual agencies to review these packages for appropriateness, review the risk (and potentially require CSPs to address key risk areas), and make a decision whether or not to authorize a CSP for use based off the package.
 
-<h3 style="text-align: center">
-  <b>Release of “FedRAMP Forward: Two Year Priorities”</b>
-</h3>
+
+  **Release of “FedRAMP Forward: Two Year Priorities”**
+
 
 FedRAMP’s success over the last two and a half years can be attributed to our core principles of transparency, consensus building, and stakeholder trust and buy-in. We have developed “FedRAMP Forward: Two Year Priorities” to share our key objectives, continue to expand and enhance the program effectively, and address key program issues critical to our continued success.
 
@@ -66,8 +44,8 @@ These goals and key issues have been translated in to a roadmap with deliverable
 
 Please click [here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-Forward-2-Year-Priorities.pdf) to download FedRAMP Forward.
 
-<h3 style="text-align: center">
-  <b>New FedRAMP Logo</b>
-</h3>
+
+  **New FedRAMP Logo**
+
 
 FedRAMP has implemented a new logo! The FedRAMP PMO has been working to subtly update the FedRAMP logo to give it a more modern and fresh look. The FedRAMP PMO has released an update to the [Branding Guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP_Branding_Guidance_12.17.14_0.pdf) to reflect use of the new logo as well as high resolution images of the new logo.

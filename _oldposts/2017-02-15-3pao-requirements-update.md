@@ -1,9 +1,9 @@
 ---
-id: 66589
+
 title: 3PAO Requirements Update
 date: 2017-02-15T15:30:25+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66589
 permalink: /3pao-requirements-update/
 amazonS3_cache:
@@ -41,66 +41,65 @@ FedRAMP works with the American Association for Laboratory Accreditation (A2LA) 
 
 FedRAMP works with A2LA to regularly review the A2LA 3PAO requirements for training expectations, quality management standards, and reporting commitments. Through this continuous collaboration, FedRAMP had recognized the need to strengthen the 3PAO accreditation requirements to provide for greater 3PAO oversight to ensure that a FedRAMP Accredited 3PAO provides the highest quality, most technically accurate assessments for the Cloud Service Providers (CSPs) who participate in the FedRAMP Program.
 
-The updated “[R311 &#8211; Specific Requirements: Federal Risk and Authorization Management Program (FedRAMP)](https://www.a2la.org/requirements/a2la_r311.pdf)” includes new and strengthened requirements that will help improve the quality of 3PAO assessment documentation; and ensure relevant, rigorous 3PAO assessment team training; to ensure maintenance and vigilant oversight of FedRAMP accredited organization. 
+The updated “[R311 , Specific Requirements: Federal Risk and Authorization Management Program (FedRAMP)](https://www.a2la.org/requirements/a2la_r311.pdf)” includes new and strengthened requirements that will help improve the quality of 3PAO assessment documentation; and ensure relevant, rigorous 3PAO assessment team training; to ensure maintenance and vigilant oversight of FedRAMP accredited organization. 
 
 Specifically, the primary focus areas for the updated requirements include:
 
-<li style="font-weight: 400">
+
   3PAO Applicants  <ol>
-    <li style="font-weight: 400">
+    
       Must analyze and identify discrepancies within notional System Security Plans (SSPs) to determine 3PAO knowledge and understanding of the FedRAMP Security Assessment Framework (SAF) with the expectation that FedRAMP SAF competency is highly regarded
-    </li>
+    
   </ol>
-</li>
 
-<li style="font-weight: 400">
+
+
   3PAO Personnel Requirements for Assessment Teams <ol>
-    <li style="font-weight: 400">
+    
       Must have a minimum of three resources that include a senior representative, penetration tester, and quality management representative
-    </li>
+    
   </ol>
-</li>
 
-<li style="font-weight: 400">
+
+
   3PAO Assessment Team Training Requirements <ol>
-    <li style="font-weight: 400">
+    
       Must include mandatory FedRAMP Project Management Organization (PMO) subject matter training
-    </li>
-    <li style="font-weight: 400">
+    
+    
       Must include topics on Federal Information Security Management Act (FISMA), FedRAMP, and cyber security in cloud technologies
-    </li>
-    <li style="font-weight: 400">
+    
+    
       Must include training records that specify the organization that provided training and the relevance to the aforementioned knowledge areas
-    </li>
-    <li style="font-weight: 400">
+    
+    
       Must include the training records with the annual review documentation
-    </li>
+    
   </ol>
-</li>
 
-<li style="font-weight: 400">
+
+
   3PAO Renewal and Surveillance Application <ol>
-    <li style="font-weight: 400">
+    
       Will now include examples of the mandatory After-Action Reports for each engagement
-    </li>
-    <li style="font-weight: 400">
+    
+    
       Will now include a list of all Security Assessment Reports (SARs) that have been rejected by the Joint Authorization Board (JAB)
-    </li>
+    
   </ol>
-</li>
 
-<li style="font-weight: 400">
+
+
   Subcontractors <ol>
-    <li style="font-weight: 400">
+    
       Must be proficient with the primary 3PAO quality management system in order to ensure compliance with ISO/IEC 17020:2012
-    </li>
+    
   </ol>
-</li>
 
-<li style="font-weight: 400">
+
+
   Cloud Service Providers (CSPs) <ol>
-    <li style="font-weight: 400">
+    
       Can proactively provide FedRAMP feedback at any point (before, during or after) the assessment process regarding 3PAO performance
-    </li>
+    
   </ol>
-</li>

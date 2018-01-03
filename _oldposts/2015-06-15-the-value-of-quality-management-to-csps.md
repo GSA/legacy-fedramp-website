@@ -1,29 +1,8 @@
 ---
-id: 29282
 title: The Value of Quality Management to CSPs
-date: 2015-06-15T14:42:53+00:00
-author: FedRAMP
-layout: default
-guid: https://www.fedramp.gov/?p=29282
+layout: blog-list
 permalink: /the-value-of-quality-management-to-csps/
-make_faq_page:
-  - ""
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-categories:
-  - General
+body-class: page-blog
 ---
 Cloud Service Providers (CSPs) who incorporate Quality Management into their Authorization Package development projects will realize a return on their investment throughout the FedRAMP Review process. Quality documentation is clear, concise, consistent, and complete. Quality documentation minimizes costly rework and time consuming delays caused by clarifying misunderstandings and waiting for missing documentation. FedRAMP requires quality documentation to provide a clear and complete description of the risk posture of a cloud system and reduce an Agency’s level of effort to reuse an Authorization Package.
 

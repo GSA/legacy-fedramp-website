@@ -1,9 +1,9 @@
 ---
-id: 66754
+
 title: FedRAMP Tailored Feedback Due Date Extended
 date: 2017-03-13T12:18:54+00:00
 author: FedRAMP
-layout: default
+layout: blog-list
 guid: https://www.fedramp.gov/?p=66754
 permalink: /fedramptailoredfeedbackduedateextended/
 amazonS3_cache:
@@ -40,6 +40,6 @@ Thanks to everyone for the feedback we’ve already received on **FedRAMP** **_T
 
 After requests from industry and agencies, we have decided to **extend our public comment period for FedRAMP** **_Tailored_** **to April 24th.** By providing your thoughts and input on our new baseline, you are helping to ensure that **FedRAMP** **_Tailored_** meets the needs of both agencies and industry. Additionally, we hope this time will spark a deeper dialogue among comments on **FedRAMP** **_Tailored_**. 
 
-You can find out more about the <strong>FedRAMP <em>Tailored</em></strong> baseline in our initial [blog post.](https://www.fedramp.gov/launching-a-fedramp-tailored-baseline/)
+You can find out more about the FedRAMP <em>Tailored</em> baseline in our initial [blog post.](https://www.fedramp.gov/launching-a-fedramp-tailored-baseline/)
 
 We look forward to reviewing all of your comments and if you have any questions, please feel free to reach out to [info@fedramp.gov](mailto:info@fedramp.gov).
