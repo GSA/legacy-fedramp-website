@@ -1,39 +1,8 @@
 ---
-
 title: FedRAMP Agency Day
-date: 2017-06-27T12:09:13+00:00
-author: Ashley Mahan
 layout: blog-list
-guid: https://www.fedramp.gov/?p=67256
 permalink: /fedramp-agency-day/
-amazonS3_cache:
-  - 'a:2:{s:106:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-27-at-12.07.14-PM.png";i:67257;s:73:"//www.fedramp.gov/files/2017/06/Screen-Shot-2017-06-27-at-12.07.14-PM.png";i:67257;}'
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-27-at-12.07.14-PM.png
-categories:
-  - FedRAMP Blog
-  - Focus on FedRAMP
+body-class: page-blog
 ---
 <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-27-at-12.07.14-PM.png"><img class="size-full wp-image-67257 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-27-at-12.07.14-PM.png" alt="" width="339" height="250" /></a>
 
@@ -43,54 +12,40 @@ Our roundtable began with an introduction to GSA’s newly established Secure Cl
 
 Next, the PMO took a moment to celebrate FedRAMP’s fifth anniversary, highlighting several key accomplishments during that timeframe to include:
 
+* A 75% reduction in time to authorization for the Joint Authorization Board (JAB) process (12-18 months to 3-6 months)
 
-  A 75% reduction in time to authorization for the Joint Authorization Board (JAB) process (12-18 months to 3-6 months)
+* 83 authorized cloud services
+    * Each cloud service is reused an average of 5.82 times each
+    * Over 33% of FedRAMP authorized cloud services are small businesses
 
+* 482 authorization reuses by federal agencies, saving thousands of hours and millions of dollars
 
-  83 authorized cloud services <ul>
-
-      Each cloud service is reused an average of 5.82 times each
-
-
-      Over 33% of FedRAMP authorized cloud services are small businesses
-
-  </ul>
-
-
-
-  482 authorization reuses by federal agencies, saving thousands of hours and millions of dollars
-
-
-  A record number of services In Process for authorization, 87% of which are SaaS solutions
+* A record number of services In Process for authorization, 87% of which are SaaS solutions
 
 
 We then turned toward the future, sharing updates about two exciting initiatives currently being rolled out: [FedRAMP Connect](https://www.fedramp.gov/fedramp-connect-the-latest-vendors-prioritized-by-the-jab/) and [FedRAMP Tailored](https://www.fedramp.gov/launching-a-fedramp-tailored-baseline/).
 
 A significant segment of the roundtable revolved around the experiences of two agencies in their journey to the cloud, with a focus on acquisition and governance. Some key elements of these presentations were:
 
+* A consolidated, consensus-based enterprise approach to cloud migration is critical to guard against cloud sprawl and headaches down the road
 
-  A consolidated, consensus-based enterprise approach to cloud migration is critical to guard against cloud sprawl and headaches down the road
+* Recommendation that a pilot on a small scale serves as a proof of concept, then learnings can be folded into your cloud migrations in an agile fashion
 
+* Many cloud best practices exist in government , talk to you colleagues across government early and often!
 
-  Recommendation that a pilot on a small scale serves as a proof of concept, then learnings can be folded into your cloud migrations in an agile fashion
-
-
-  Many cloud best practices exist in government , talk to you colleagues across government early and often!
-
-
-  Agencies have the power to dictate terms with cloud providers because they own the data
+* Agencies have the power to dictate terms with cloud providers because they own the data
 
 
 Finally, we held two concurrent breakout sessions. The first focused on Cloud Acquisition where participants learned how to easily implement cloud solicitations without incurring additional risk. Some tips for buying cloud included:
 
 
-  **Talk to industry**: Conduct market research with cloud service providers and systems integrators with federal experience; visit marketplace.fedramp.gov and read the service descriptions associated with products that currently have a FedRAMP authorization to determine if there is a competitive range. 
+  **Talk to industry**: Conduct market research with cloud service providers and systems integrators with federal experience; visit marketplace.fedramp.gov and read the service descriptions associated with products that currently have a FedRAMP authorization to determine if there is a competitive range.
 
 
   **Think FedRAMP**: Incorporate FedRAMP language into your RFP in a way that isn’t restrictive.
 
 
-  **Make Security an Evaluation Criteria: Agencies should incorporate security as an evaluation factor when doing acquisitions for IT services.**
+  **Make Security an Evaluation Criteria**: Agencies should incorporate security as an evaluation factor when doing acquisitions for IT services.
 
 
 The second breakout dealt with Agency Authorization where the FedRAMP PMO teamed with HHS to share common issues in the authorization process and provided guidance on how agencies can address each successfully. Highlights of this conversation included:
@@ -102,7 +57,7 @@ The second breakout dealt with Agency Authorization where the FedRAMP PMO teamed
   **Build in review time**: Even if a CSP is FedRAMP authorized, agencies should still review the package and make a risk-based decision before issuing their own authorization.
 
 
-  **<em>Document all your decisions:</em> Track why you are giving exceptions to a given systems. Risk-based decisions are dependent on the context of the system. **
+  **Document all your decisions**: Track why you are giving exceptions to a given systems. Risk-based decisions are dependent on the context of the system.
 
 
-Dynamic participation from attendees always energizes us at the FedRAMP PMO! We look forward to our next roundtable and seeing what comes from the relationships built during these meetings and the conversations that were started. I would like to thank everyone who came out last week, especially our first timers! If you’d like to attend the next agency roundtable or have questions about the agency authorization process, email me at <a href="mailto:agency@fedramp.gov">agency@fedramp.gov</a>**
+Dynamic participation from attendees always energizes us at the FedRAMP PMO! We look forward to our next roundtable and seeing what comes from the relationships built during these meetings and the conversations that were started. I would like to thank everyone who came out last week, especially our first timers! If you’d like to attend the next agency roundtable or have questions about the agency authorization process, email me at [agency@fedramp.gov](mailto:agency@fedramp.gov).

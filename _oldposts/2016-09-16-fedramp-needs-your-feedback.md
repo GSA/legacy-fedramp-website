@@ -1,42 +1,10 @@
 ---
-
 title: FedRAMP Needs Your Feedback
-date: 2016-09-16T09:24:06+00:00
-author: FedRAMP
 layout: blog-list
-guid: https://www.fedramp.gov/?p=62451
 permalink: /fedramp-needs-your-feedback/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:1:{s:92:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/training-icons_01.png";i:31202;}'
-categories:
-  - FedRAMP Blog
-  - Focus on FedRAMP
-  - General
-  - Training
+body-class: page-blog
 ---
-<img class="size-full wp-image-31202 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/training-icons_01.png" alt="training-icons_01" width="201" height="167" />Have you ever emailed the FedRAMP PMO to ask about our online training? Wondering when the next course will be available? What will it focus on? Have you ever thought that a particular subject would make a useful FedRAMP training module?
+Have you ever emailed the FedRAMP PMO to ask about our online training? Wondering when the next course will be available? What will it focus on? Have you ever thought that a particular subject would make a useful FedRAMP training module?
 
 Did you answer “YES” to any of these questions? Then you should complete FedRAMP’s [Training Needs](https://goo.gl/forms/14jnjk1gEwdJCApB3) survey. If you said “no,” then you should still complete the survey because we need as much feedback as possible.
 
@@ -47,4 +15,3 @@ The [Training Needs](https://goo.gl/forms/14jnjk1gEwdJCApB3) survey asks questio
 Please respond to the [Training Needs](https://goo.gl/forms/14jnjk1gEwdJCApB3) survey by Friday, September 30th.  We greatly appreciate your feedback!
 
 Contact [info@fedramp.gov](mailto:info@fedramp.gov) with any questions.
-

@@ -1,41 +1,10 @@
 ---
-
 title: First FedRAMP Agency Roundtable
-date: 2016-09-02T10:53:58+00:00
-author: Ashley Mahan
 layout: blog-list
-guid: https://www.fedramp.gov/?p=62071
 permalink: /first-fedramp-agency-roundtable/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:1:{s:95:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/02/Ashley_no_background.png";i:43969;}'
-categories:
-  - Agencies
-  - FedRAMP Blog
-  - Focus on FedRAMP
+body-class: page-blog
 ---
-<img class="size-full wp-image-43969 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/02/Ashley_no_background.png" alt="Ashley Mahan cartoon picture" width="196" height="226" />This past Monday, we held our first Agency Roundtable at GSA headquarters. As FedRAMP’s Agency Evangelist, I take pride in bringing awareness and understanding to federal agencies about how FedRAMP can help their journey to the cloud. We brought over 34 agencies together, from those agencies seeking an introduction to FedRAMP to those agencies who are well seasoned veterans in the FedRAMP process. Our aim was to make agency connections to create long-lasting relationships in sharing cloud security and implementation strategies&#8230;and I’d say we’re on our way!
+This past Monday, we held our first Agency Roundtable at GSA headquarters. As FedRAMP’s Agency Evangelist, I take pride in bringing awareness and understanding to federal agencies about how FedRAMP can help their journey to the cloud. We brought over 34 agencies together, from those agencies seeking an introduction to FedRAMP to those agencies who are well seasoned veterans in the FedRAMP process. Our aim was to make agency connections to create long-lasting relationships in sharing cloud security and implementation strategies,and I’d say we’re on our way!
 
 We began the roundtable by updating the group on the latest FedRAMP news to include the release of the [High Baseline](https://www.fedramp.gov/fedramp-releases-high-baseline/), [Readiness Assessment Report (RAR)](https://www.fedramp.gov/the-next-step-in-getting-vendors-into-fedramp/) and the FedRAMP [Marketplace](https://www.fedramp.gov/2016-08-17-new-fedramp-marketplace-dashboard/). Besides these major accomplishments, I’m really proud of the work all of the agencies have been doing recently.  We have received an additional 30 authorizations (ATOs) from Agencies in the last 90 days , that’s a huge number in terms of authorization re-use in a short period of time!    
 

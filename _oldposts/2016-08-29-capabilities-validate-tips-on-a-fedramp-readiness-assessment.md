@@ -1,43 +1,11 @@
 ---
-
 title: Capabilities! Validate! Tips on a FedRAMP Readiness Assessment
-date: 2016-08-29T11:09:32+00:00
-author: Matt Goodrich
 layout: blog-list
-guid: https://www.fedramp.gov/?p=61921
 permalink: /capabilities-validate-tips-on-a-fedramp-readiness-assessment/
-make_faq_page:
-  - null
-make_faq_shortcode:
-  - ""
-bgFAQfoldup:
-  - default
-bgFAQvisualCue:
-  - default
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:6:{s:86:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR.jpg";i:61931;s:94:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-286x300.jpg";i:61931;s:98:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Adobe-PDF-Document-icon.png";i:19132;s:119:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR_A-guide-for-3PAO_08262016_V6-1-2.pdf";i:61961;s:94:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-768x806.jpg";i:61931;s:95:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-976x1024.jpg";i:61931;}'
-categories:
-  - 3PAO
-  - FedRAMP Accelerated
-  - FedRAMP Blog
-  - FedRAMP Process
-  - Focus on FedRAMP
+body-class: page-blog
 ---
-<img class="wp-image-61931 size-medium alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-286x300.jpg" alt="Lion paw with scratch marks for Readiness Assessment Report (RAR)" width="286" height="300" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-286x300.jpg 286w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-768x806.jpg 768w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR-976x1024.jpg 976w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR.jpg 1160w" sizes="(max-width: 286px) 100vw, 286px" />I recently held two mandatory webinars for our FedRAMP assessors (3PAOs) to go over our new [Readiness Assessment Report](https://www.fedramp.gov/the-next-step-in-getting-vendors-into-fedramp/) (RAR). The RAR is a key component of [FedRAMP Accelerated](https://www.fedramp.gov/participate/fedramp-accelerated-process/) and the ability for the JAB to authorize providers in 3-6 months. These webinars clarified the intent of the RAR, gave some tips and cues, as well as described the power of the new FedRAMP Ready. In addition to sharing this with our 3PAOs, I want to share these key insights with everyone.
+
+I recently held two mandatory webinars for our FedRAMP assessors (3PAOs) to go over our new [Readiness Assessment Report](https://www.fedramp.gov/the-next-step-in-getting-vendors-into-fedramp/) (RAR). The RAR is a key component of [FedRAMP Accelerated](https://www.fedramp.gov/participate/fedramp-accelerated-process/) and the ability for the JAB to authorize providers in 3-6 months. These webinars clarified the intent of the RAR, gave some tips and cues, as well as described the power of the new FedRAMP Ready. In addition to sharing this with our 3PAOs, I want to share these key insights with everyone.
 
 **The intent of the RAR:**
 
@@ -47,7 +15,7 @@ This is a phrase I used over and over again during the course of the webinars. T
 
 “The intent is to _determine_ Readiness, not _guarantee_ it.”
 
-We believe a majority of CSPs will not pass a readiness assessment the first time they engage with a 3PAO. This is not a bad thing , we want our CSPs to understand their capabilities prior to entering into a full FedRAMP Assessment. A RAR will allow a CSP to validate their capabilities or potentially identify any key gaps they must address before engaging with FedRAMP. 
+We believe a majority of CSPs will not pass a readiness assessment the first time they engage with a 3PAO. This is not a bad thing , we want our CSPs to understand their capabilities prior to entering into a full FedRAMP Assessment. A RAR will allow a CSP to validate their capabilities or potentially identify any key gaps they must address before engaging with FedRAMP.
 
 **Some lessons learned from the first few FedRAMP Ready Assessments:**
 
@@ -61,11 +29,11 @@ CSPs do not have to have 100% completed documentation in order to be deemed FedR
 
 **Some thoughts about the power of FedRAMP Ready:**
 
-“Ability to Sell to Federal Government”
+_“Ability to Sell to Federal Government”_
 
 An approved RAR by the FedRAMP PMO will give CSPs a better ability to attract Federal customers by detailing they have the right capabilities in place and have that validated by a third party assessor as well as the FedRAMP PMO. Approved RARs will be valid for one year from approval and made available to agencies via the FedRAMP secure repository.
 
-“Required for JAB Prioritization”
+_“Required for JAB Prioritization”_
 
 If a CSP would like to be [prioritized for a provisional authorization](https://www.fedramp.gov/fedramp-jab-prioritization-help-us-shape-who-works-with-the-jab/) by the JAB, then an approved RAR will be the first go/no-go decision point for prioritization. This is a critical step in the requirements for going to the JAB.
 
@@ -78,19 +46,19 @@ Email your completed Comment Matrix files to [info@fedramp.gov](http://info@fedr
     <th style="width: 400px;text-align: left" scope="col">
       Document Name
     </th>
-    
+
     <th style="width: 400px;text-align: left" scope="col">
       Document Link
     </th>
   </tr>
-  
+
   <tr>
     <td style="width: 400px">
-      
+
         FedRAMP Readiness Assessments: A Guide for 3PAOs
-      
+
     </td>
-    
+
     <td style="width: 400px;text-align: center">
       <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-RAR_A-guide-for-3PAO_08262016_V6-1-2.pdf"><img class="alignnone wp-image-19132 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Adobe-PDF-Document-icon.png" width="16" height="16" /></a>
     </td>
