@@ -5,8 +5,7 @@ permalink: /november-2014-newsletter/
 body-class: page-blog
 ---
 
-  **Events**
-
+### Events
 
 At this time, the FedRAMP PMO is not sponsoring any events or training sessions.  Members of the FedRAMP team will be participating in the following events:
 
@@ -16,23 +15,17 @@ At this time, the FedRAMP PMO is not sponsoring any events or training sessions.
   * December 11, 2014 (3-3:30PM) , Federal Cloud Computing Summit (Fed Summit)
       * For more information click [here](http://www.fedsummits.com/cloud/)
 
-
-  **FedRAMP Authorized CSPs**
-
+### FedRAMP Authorized CSPs
 
 This month [Microsoft Office 365 Multi-Tenant & Supporting Services](https://www.fedramp.gov/marketplace/compliant-systems/microsoft-office-365-multi-tenant-supporting-services-including-azure-active-directory-leverageing-microsoft-azure-and-cloud-infrastructure/) received an Agency Authorization from the Department of Health and Human Services Office of Inspector General.
 
 The official list of the 23 compliant cloud services can be found [here](https://www.fedramp.gov/marketplace/compliant-systems/)[.](http://cloud.cio.gov/fedramp/cloud-systems)
 
-
-  **Documentation Release **
-
+### Documentation Release
 
 On October 28, the FedRAMP PMO released an updated Plan of Action and Milestones template.  This updated template is available [here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/POAM-POAM-Templates_100914.xlsm).   The FedRAMP PMO has not released any other new or updated documents.
 
-
-   **Public Comment Requests**
-
+### Public Comment Requests
 
 The FedRAMP PMO appreciates the feedback provided on the various documents that have been posted for public comment. The PMO will publish the responses to the substantive comments on [FedRAMP.gov](https://www.fedramp.gov) next week for the following documents:
 
@@ -46,9 +39,7 @@ In addition, The FedRAMP PMO would like to remind you that the updated FedRAMP S
 
 As refresher, the FedRAMP Security Assessment Test Case Workbook provides a standard risk and controls template for assessing baseline controls and helps to drive consistency in the annual assessment testing performed by Third Party Assessor Organizations (3PAOs). 3PAOs use this workbook to test selected baseline controls per required test procedures and document any control deficiencies and findings. The updates the FedRAMP PMO made on the workbook reflect the significant changes to baseline control descriptions, enhancements and associated test procedures accordingly to NIST SP 800-53 Revision 4.
 
-
-  **FedRAMP Ready Systems**
-
+### FedRAMP Ready Systems
 
 Last month, the FedRAMP PMO implemented a new category of systems called FedRAMP Ready.  We noticed that this new category has caused some confusion as it relates to CSPs categorized as FedRAMP In Process or FedRAMP Compliant. The systems categorized as being the FedRAMP Ready have documentation ready to begin the Security Assessment Framework (SAF). However, it is important to note that FedRAMP Ready systems have not kicked off the SAF with an Agency or FedRAMP PMO and therefore are not yet considered FedRAMP In Process. To help provide further clarification about the FedRAMP Ready category, the PMO is releasing the graphic below to convey where that category falls in a CSP’s path to FedRAMP compliance.
 
@@ -67,9 +58,7 @@ The current list of FedRAMP Ready Systems include:
 
 For more information and to see those systems designated as FedRAMP Ready, click [here](https://www.fedramp.gov/marketplace/fedramp-ready-systems/).
 
-
-  **FedRAMP In Process Systems**
-
+### FedRAMP In Process Systems
 
 The FedRAMP PMO continues to work with Cloud Service Providers to transition systems to FedRAMP In Process. Currently, the FedRAMP PMO has 17 systems in process to receive a JAB Provisional Authorization and 18 systems in process to receive an Agency Authorization.
 

@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /december-2016-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 <table>
   <tr>
@@ -25,8 +25,6 @@ body-class: page-blog
 FedRamp now has 22 FedRAMP Compliant CSP systems! A complete list of all FedRAMP Compliant CSPs can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
 
 (https://www.fedramp.gov/?p=41252"><img class="size-medium wp-image-42161 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/reminder-300x254.png" alt="reminder" width="300" height="254" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/reminder-300x254.png 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/reminder.png 314w" sizes="(max-width: 300px) 100vw, 300px" />
-
-## Feature Item:
 
 ### FedRAMP-TIC Overlay Pilot
 

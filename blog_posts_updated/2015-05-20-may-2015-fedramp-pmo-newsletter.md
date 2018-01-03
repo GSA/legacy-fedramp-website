@@ -1,47 +1,44 @@
 ---
 title: May 2015 Newsletter
-layout: blog-list 
+layout: blog-list
 permalink: /may-2015-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-** <img class="alignnone wp-image-27822 size-large" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1-1024x261.png" alt="" width="1024" height="261" />**
 
-## **New FedRAMP Compliant CSPs!**
+### New FedRAMP Compliant CSPs!
 
 The FedRAMP PMO is excited to announce a new FedRAMP compliant cloud system!
 
-Agency ATO:
+**Agency ATO:**
 
   * [BlackMesh - SecureCloud](https://www.fedramp.gov/marketplace/compliant-systems/blackmesh-securecloud/)
 
 FedRAMP now has 34 compliant CSP systems! A complete list of all FedRAMP compliant CSPs can be viewed [here](https://www.fedramp.gov/?p=782).
 
-## **Agencies Must Validate Federal Cloud Systems**
+### Agencies Must Validate Federal Cloud Systems
 
 The FedRAMP PMO works with the Office of Management and Budget (OMB) to ensure Federal agencies are authorizing cloud systems they use through the FedRAMP process. All Federal agencies must use the FedRAMP process for doing security assessments, authorizations, and continuous monitoring of cloud services. In order to validate that agencies are following this process, agencies must validate compliance with ALL of their cloud services through the FedRAMP PMO. This applies to ALL deployment models (public, private, hybrid, community) and ALL delivery models (infrastructure, platform, software).
 
-**** ****There are two key elements that must be validated by the FedRAMP PMO:
+There are two key elements that must be validated by the FedRAMP PMO:
 
   1. [Agency ATO letters](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Template-FedRAMP-ATO-Letter.docx)
   2. Security Authorization Packages
 
 Agencies must submit the appropriate materials to the FedRAMP PMO at <info@fedramp.gov>. [Read](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/01/FedRAMPPackageValidationProcessFINAL2.pdf) the full validation letter for more information on how to properly validate your agency’s cloud system.
 
-## Thank You for Your Comments!
+### Thank You for Your Comments!
 
-## Draft FedRamp-TIC Overlay Public Comment Period Ended
+### Draft FedRamp-TIC Overlay Public Comment Period Ended
 
 Thank you to everyone who submitted comments for the draft FedRAMP-TIC Overlay. The 30-day public comment period ended on May 2, 2015. In total, the PMO received 303 comments from 15 Federal agencies and 8 Cloud Service Providers (CSPs). This DRAFT overlay is the first step in updating TIC’s current reference architecture to allow for greater flexibility as agencies move to the cloud securely. The overlay will enable mobile users to directly connect to Federal cloud system without utilizing a TIC Access Provider (TICAP) or Managed Trusted IP Service (MTIPS).
 
 The PMO will continue to provide updates about the FedRAMP-TIC overlay as the initiative progresses.
 
-## FedRAMP Tip: The Power of Asking ‘How?’ <img class="alignnone wp-image-26432" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/TIP_IMAGE.png" alt="TIP_IMAGE" width="50" height="50" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/TIP_IMAGE.png 227w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/TIP_IMAGE-150x150.png 150w" sizes="(max-width: 50px) 100vw, 50px" />
+### FedRAMP Tip: The Power of Asking ‘How?’ 
 
 When documenting a control implementation, the how is crucial. Before you start writing control implementations, find out how something is done. Asking ‘how’ enables the writer to explain in detail the functions and parameters of each control. Ask an expert if you are unsure how something works. For example, if you are writing about how to link TACACS+ to AD and are unsure about that process, take some time to ask a subject matter expert (SME) how something is done. Document the steps and then turn it into a paragraph. A well-written and detailed control implementation is easily tested, which leads to a better path to authorization.
 
-
-## FedRAMP in the News
-
+### FedRAMP in the News
 
   * [FedRAMP should consider cloud-broker model](http://blog.executivebiz.com/2015/05/hps-stacy-cleveland-fedramp-should-consider-cloud-broker-model/) , ExecutiveBiz
   * [Waiting on brokers, don’t hold your breath](http://www.fiercegovernmentit.com/story/waiting-fedramp-cloud-brokers-dont-hold-your-breath/2015-05-18) , FierceGovernment IT

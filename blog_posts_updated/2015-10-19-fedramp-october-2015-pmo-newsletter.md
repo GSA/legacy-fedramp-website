@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /fedramp-october-2015-pmo-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce two new FedRAMP Compliant cloud systems!
 
@@ -40,9 +40,7 @@ FedRamp now has 22 JAB P-ATOs and 50 FedRAMP Compliant CSP systems! A complete l
   </tr>
 </table>
 
-## Feature Item
-
-## Commonly Missed Documents
+### Commonly Missed Documents
 
 Submitting a complete authorization package helps to speed-up processing time and the time to initiate a package review. But the PMO office has noticed a trend of Cloud Service Providers (CSPs) neglecting to include the fifteen required documents for an [Initial Review](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Initial-Review-SOP-v1-3.pdf). A list of the required documents can be found in the [Initial Review Standard Operating Procedure](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Initial-Review-SOP-v1-3.pdf).
 
@@ -50,7 +48,7 @@ The PMO has put together a list of the top five commonly missed required documen
 
 [Read the whole story.](https://www.fedramp.gov/?p=38732)
 
-## Lessons Learned: Initial Review
+### Lessons Learned: Initial Review
 
 Over the past few months, the FedRAMP PMO has conducted nearly 20 [Initial Reviews](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Initial-Review-SOP-v1-3.pdf) of CSP packages. These reviews evaluated twenty-one Critical Controls for readability, relevance, sufficiency, and consistency. FedRAMP’s definition of each criteria is as follows:
 
@@ -71,17 +69,15 @@ Over the past few months, the FedRAMP PMO has conducted nearly 20 [Initial Revie
 
 [Read the whole story.](https://www.fedramp.gov/?p=38922)
 
-## New Team Member!
+### New Team Member!
 
 <img class="  wp-image-39162 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/10/FB_IMG_1445446285622_kindlephoto-42393758-276x300.jpg" alt="Ashley Mahan" width="115" height="125" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/10/FB_IMG_1445446285622_kindlephoto-42393758-276x300.jpg 276w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/10/FB_IMG_1445446285622_kindlephoto-42393758.jpg 479w" sizes="(max-width: 115px) 100vw, 115px" />
 
 We’re incredibly excited to announce another team member joining FedRAMP, **Ashley Mahan**! Ashley has served as a trusted Cyber Security Advisor for the Federal Government for the past decade and her joining the FedRAMP Team will help lead the effort to integrate FedRAMP and Cloud Computing into Agency IT Portfolios.
 
-
-
 _[Find out more about Ashley!](https://www.fedramp.gov/?p=39222)_
 
-## Now Available: Review and Approve Training Module
+### Now Available: Review and Approve Training Module
 
 FedRAMP’s “Review and Approve (R&A) Process” [training module](https://www.fedramp.gov/resources/training/) is now available on [Blackboard](https://governmenttraining.blackboard.com/). This training is designed to help FedRAMP Cloud Service Provider (CSP) and agency applicants understand the process to achieve FedRAMP compliance.
 
@@ -95,7 +91,7 @@ Students will learn:
 [Read the whole story.](https://www.fedramp.gov/?p=38752)
 
 
-## FedRAMP in the News:
+### FedRAMP in the News:
 
   * [Private companies heart government cloud security controls](http://fedscoop.com/private-companies-love-u.s.-government-cloud-security-controls) (FedScoop)
   * [Teresa Carlson: FedRAMP impacts enterprise cloud security baselines, AWS GovCloud use](http://blog.executivebiz.com/2015/10/teresa-carlson-fedramp-impacts-enterprise-cloud-security-baselines-aws-govcloud-use/) (Executive Biz)
@@ -109,7 +105,7 @@ Students will learn:
   * [DoD reaches 36 ‘provisional’ authorizations for commercial cloud services](http://federalnewsradio.com/disa/2015/09/dod-reaches-36-provisional-authorizations-commercial-cloud-services/) (Federal News Radio)
   * [Moving beyond pre-season in the Federal cloud](http://www.nextgov.com/cloud-computing/2015/09/moving-beyond-pre-season-federal-cloud/121418/) (Nextgov)
 
-## Upcoming Events
+### Upcoming Events
 
   * [Cloud Connect 2015](https://www.fedramp.gov/event/cloud-connect-2015/)
   * [Red Hat Government Symposium](https://www.fedramp.gov/event/red-hat-government-symposium/)

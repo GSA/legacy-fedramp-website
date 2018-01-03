@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /march-2016-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-## FedRAMP Accelerated
+### FedRAMP Accelerated
 
 Please join FedRAMP on March 28th at GSA's Headquarters in downtown Washington DC (1800 F Street NW) for FedRAMP Accelerated. We are excited to have the GSA Administrator, Denise Turner Roth, and representatives from OMB, Microsoft, Unisys, 18F, and ACT-IAC participating in this event.
 
@@ -14,7 +14,7 @@ We want to take the time to share with all of our stakeholders our redesigned au
 
 [View the event.](https://www.fedramp.gov/event/fedramp-accelerated/)
 
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce that Project Hosts and Deloitte are now FedRAMP Compliant.
 
@@ -43,9 +43,6 @@ The FedRAMP PMO is excited to announce that Project Hosts and Deloitte are now F
 
 
                 FedRAMP now has 63 FedRAMP Compliant CSP systems! A complete list can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
-
-
-## Feature Item: 
 
 ### A Look at the Last Six Months
 

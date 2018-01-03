@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /january-2016-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce five new systems, including a JAB Authorization and two FedRAMP Ready systems!
 
@@ -96,7 +96,7 @@ The FedRAMP PMO is excited to announce five new systems, including a JAB Authori
 
 FedRamp now has 24 JAB P-ATOs and 53 FedRAMP Compliant CSP systems! A complete list of all FedRAMP Compliant CSPs can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
 
-## Feature Item: The Evolution of FedRAMP
+### Feature Item: The Evolution of FedRAMP
 
 As we approached our fourth year of helping agencies secure the cloud solutions they use, we here at [FedRAMP](https://www.fedramp.gov/) undertook a comprehensive outreach effort to learn as much as possible about how we’re meeting your needs. In response to your feedback, we’re shifting our efforts to scale the things we’re doing well, and we’re also working to improve the areas you’d like to see changed.
 

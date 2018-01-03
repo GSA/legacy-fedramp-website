@@ -5,7 +5,7 @@ layout: blog-list
 permalink: /act-iac-call-to-action/
 body-class: page-blog
 ---
-## This is your chance to have your voice heard!
+### This is your chance to have your voice heard!
 
 This is your chance to have your voice heard! The FedRAMP PMO needs volunteers to participate in developing the Joint Authorization Board (JAB) prioritization criteria as part of the FedRAMP Accelerated program. The PMO is partnering [ACT-IAC](https://www.actiac.org/events/jab-prioritization-work-stream-kickoff-virtual-meeting) to establish the benchmarks for the new JAB process, and you can be a part of developing the new criteria.
 

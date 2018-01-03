@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /august-2015-fedramp-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce two new FedRAMP Compliant cloud systems!
 
@@ -34,30 +34,25 @@ The FedRAMP PMO is excited to announce two new FedRAMP Compliant cloud systems!
 
 FedRamp now has 45 compliant CSP systems! A complete list of all FedRAMP compliant CSPs can be viewed<a href="https://www.fedramp.gov/marketplace/compliant-systems/"> here</a>.
 
-# Feature Item:
-
-## The Review & Approve Process
+### The Review & Approve Process
 
 <img class="alignnone size-full wp-image-34612" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/review_approve_page.png" alt="review_approve_page" width="629" height="239" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/review_approve_page.png 629w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/review_approve_page-300x114.png 300w" sizes="(max-width: 629px) 100vw, 629px" />
 
 To better address the growing number of Cloud Service Provider (CSP) applicants, the FedRAMP PMO has revamped its process for reviewing and approving Authorization Packages. This new [**Review and Approve (R&A) Process**](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Review-and-Approve-SOP-v1-0-1.pdf) is designed to be more efficient, structured, and scalable with an emphasis on training and improving the quality of submitted Authorization Package documentation through greater transparency of FedRAMP processes and evaluation criteria. [Read the full story.](https://www.fedramp.gov/?p=34602)
 
-## Reminder: High Baseline Tiger Team
+### Reminder: High Baseline Tiger Team
 
 The Federal Risk and Authorization Management Program (FedRAMP) is looking for Government  (USG) and Federal Government contractors to join the High Baseline Tiger Team. This team will adjudicate the public commentary received for the draft [High Baseline](https://www.fedramp.gov/provide-public-comment/fedramp-high-baseline/) in January 2015.
 
 FedRAMP is specifically looking for participants that currently are system owners or security staff that work on high baseline systems. The time commitment for the Tiger Team is one week of all-day, in-person meetings at GSA’s headquarters in downtown Washington DC. This is not an insignificant time commitment, but the input provided into this process will dramatically shape the FedRAMP program. It will also ensure high system owners across the USG will have input into this baseline, which will allow cloud service providers (CSPs) to be authorized for use at the FISMA high (H-H-H) impact level. [Read the full story.](https://www.fedramp.gov/?p=32992)
 
-## FedRAMP Introductory Training Re-Release
+### FedRAMP Introductory Training Re-Release
 
 FedRAMP’s introductory [training](https://www.fedramp.gov/resources/training/) course will be available on Monday, August 31. Titled “Introduction to FedRAMP 100-A,” the course was originally released in March 2015 as part of the [FedRAMP Forward](https://www.fedramp.gov/about-us/fedramp-forward-a-look-back-at-the-last-six-months/) initiative. It has been revamped to provide an accurate depiction of how the program functions and a starting point for those who are interested in FedRAMP. The course gives a general overview of the program’s governance, stakeholders, the three types of Authorization paths, and the relationship between FedRAMP and the National Institute of Standards and Technology (NIST) Risk Management Framework.
 
 Even though the introductory course is not mandatory, the FedRAMP PMO recommends that all Cloud Service Providers (CSPs) take this course before submitting an application or writing a System Security Plan (SSP). All FedRAMP training courses are available on-demand and online through Blackboard.
 
-
-
-
-## FedRAMP in the News:
+### FedRAMP in the News:
 
 
   * [IBM, Adobe gain FedRAMP approval for cloud services](http://www.eweek.com/cloud/ibm-adobe-gain-fedramp-approval-for-cloud-services.html) (eWeek)

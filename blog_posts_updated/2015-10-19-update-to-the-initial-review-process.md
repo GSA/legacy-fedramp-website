@@ -62,17 +62,16 @@ From the PMO, we’re going to revise some of our guidance to give clearer infor
 
 However, it’s not all just on us at the PMO. We need our CSPs to review our guidance and come prepared. We’re continually working to provide self-help tools and guidance for CSPs to review in order to be able to provide CSP packages that will pass these reviews the first time. Below is a list of the key tools and documents every CSP should ensure they review prior to submission for an initial review:
 
-[Training Module on SSP Development](https://www.fedramp.gov/resources/training/)
+* [Training Module on SSP Development](https://www.fedramp.gov/resources/training/)
 
-[The Guide to Understanding FedRAMP](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Guide-to-Understanding-FedRAMP-v2.0-4.docx)
+* [The Guide to Understanding FedRAMP](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Guide-to-Understanding-FedRAMP-v2.0-4.docx)
 
-[FedRAMP General Document Acceptance Criteria](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/07/FedRAMP-General-Document-Acceptance-Criteria.pdf)
+* [FedRAMP General Document Acceptance Criteria](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/07/FedRAMP-General-Document-Acceptance-Criteria.pdf)
 
+* [FedRAMP Initial Review Standard Operating Procedure](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Initial-Review-SOP-v1-3.pdf)
 
-[FedRAMP Initial Review Standard Operating Procedure](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-Initial-Review-SOP-v1-3.pdf)
+* [Checklist](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-SAR-Initial-Review-Checklist-Template-v1-0.xlsx)
 
-[Checklist](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/08/FedRAMP-SAR-Initial-Review-Checklist-Template-v1-0.xlsx)
-
-[Weekly Tips and Cues](https://www.fedramp.gov/category/tips/)
+* [Weekly Tips and Cues](https://www.fedramp.gov/category/tips/)
 
 As always, we also welcome your feedback and would like to see any other suggestions for additional information you feel is missing or would be helpful for FedRAMP to provide. Please don’t hesitate to send any suggestions to info@fedramp.gov!

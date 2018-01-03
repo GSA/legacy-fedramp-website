@@ -5,7 +5,7 @@ layout: blog-list
 permalink: /fedramp-pmo-newsletter-june-2016/
 body-class: page-blog
 ---
-## High Baseline Release
+### High Baseline Release
 
 The Federal Risk and Authorization Management Program (FedRAMP) is excited to release the [FedRAMP High Baseline Requirements](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-High-HHH-Baseline-Controls-2016-05-18.xlsx)! The High Baseline is available on [www.FedRAMP.gov](https://www.fedramp.gov/resources/documents-2016/). These security requirements will be used to protect some of the government’s most sensitive, unclassified data in cloud computing environments. This release allows agencies to use cloud environments for high-impact data, including data that involves the protection of life and financial ruin.
 
@@ -13,7 +13,7 @@ Why is this such a big deal? While 80% of Federal information is categorized at 
 
 [Read the whole story.](https://www.fedramp.gov/fedramp-releases-high-baseline/)
 
-## Call to Action
+### Call to Action
 
 **This is your chance to have your voice heard!**
 The FedRAMP PMO needs volunteers to participate in developing the JAB prioritization criteria as part of the FedRAMP Accelerated program. The PMO is partnering [ACT-IAC](https://www.actiac.org/events/jab-prioritization-work-stream-kickoff-virtual-meeting) to establish the benchmarks for the new JAB process, and you can be a part of developing the new criteria.
@@ -24,7 +24,7 @@ In March 2016, the FedRAMP PMO unveiled the Accelerated program, a means to a fa
 
 Any member of the federal government (employee and contractor), cloud service provider, industry, or others interested in the JAB prioritization criteria are invited to join these session. If you are interested in joining the JAB prioritization workstream, email [info@FedRAMP.gov](mailto:info@FedRAMP.gov) with the subject line “JAB Prioritization Workstream.” Please include your organization and contact information in the email.**
 
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce six new FedRAMP Compliant systems and one FedRAMP Ready system!
 
@@ -108,8 +108,6 @@ The FedRAMP PMO is excited to announce six new FedRAMP Compliant systems and one
 
 
 FedRAMP now has 72 FedRAMP Compliant CSP systems! A complete list can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
-
-## Feature Item: 
 
 ### FedRAMP Accelerated Process
 

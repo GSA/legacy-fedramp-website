@@ -4,9 +4,8 @@ layout: blog-list
 permalink: /june-2015-fedramp-newsletter/
 body-class: page-blog
 ---
-## [<img class="alignnone size-full wp-image-27822" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1-e1434390873102.png" alt="FedRAMP newsletter header (1)" width="1000" height="256" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/FedRAMP-newsletter-header-1.png)
 
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
 
@@ -36,26 +35,26 @@ The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
 
 FedRamp now has 36 compliant CSP systems. A complete list of all FedRAMP compliant CSPs can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/virtustream-inc-federal-cloud-services-vfc/).
 
-## Feature Item
+### Feature Item
 
 The Value of Quality Management to CSPs
 
 Cloud Service Providers (CSPs) who incorporate Quality Management into their Authorization Package development projects will realize a return on their investment throughout the FedRAMP Review process. Quality documentation is clear, concise, consistent, and complete. Quality documentation minimizes costly rework and time consuming delays caused by clarifying misunderstandings and waiting for missing documentation. FedRAMP requires quality documentation to provide a clear and complete description of the risk posture of a cloud system and reduce an Agency’s level of effort to reuse an Authorization Package. _[Read More.](https://www.fedramp.gov/?p=29282)_
 
-## FedRAMP to Unveil New Training Course
+### FedRAMP to Unveil New Training Course
 
 If you found FedRAMP’s first training course helpful, then you will be excited to learn the next training course is not too far behind! Expected to launch on July 1, 2015, the second course in our training series, “FedRAMP System Security Plan (SSP) Required Documents” will be mandatory for SSP submission. This course will familiarize you with the required documentation for initial package submission.
 
 The FedRAMP PMO understands that writing a detailed SSP is necessary for a successful initial review. This course will provide a detailed overview of an SSP and its supporting documents, to give you the tools to accurately describe your system’s security controls. This is the second course in the FedRAMP training series and more will be released in the coming months.
 
-## New Document: JAB P-ATO Vulnerability Scan Requirements Guide
+### New Document: JAB P-ATO Vulnerability Scan Requirements Guide
 
 FedRAMP requires all Authorized Cloud Service Providers (CSP) to perform at least monthly vulnerability scans of their cloud service systems. These vulnerability scans are the cornerstones for the continuous monitoring of CSPs’ cloud service risk postures, enabling authorizing officials to continue to authorize CSP cloud systems for use. CSPs are responsible for ensuring the highest quality vulnerability scans. FedRAMP evaluates all vulnerability scanning reports and provides a summary report to the Joint Authorization Board (JAB). In this way, FedRAMP maintains a current view of the security posture of the CSP systems through scanning and continuous monitoring documentation.
 
 On June 3, 2015, the FedRAMP PMO released the “JAB Provisional Authorization (P-ATO) Vulnerability Scan Requirements Guide.” This document describes the requirements for all vulnerability scans of FedRAMP CSP products. Consult the guide for a full listing of vulnerability scan requirements.
 
 
-## Upcoming Events:
+### Upcoming Events:
 
 
   *        [Cloud Computing Brainstorm](https://www.fedramp.gov/event/cloud-computing-brainstorm/)
@@ -63,7 +62,7 @@ On June 3, 2015, the FedRAMP PMO released the “JAB Provisional Authorization (
   *        [AFCEA Annual Senior Government Executive Dinner](https://www.fedramp.gov/event/8th-annual-senior-government-executive-dinner/)
 
 
-## FedRAMP in the News:
+### FedRAMP in the News:
 
 
   * [Appian receives FedRAMP authorization](http://www.digitaljournal.com/pr/2587261) (Digital Journal)

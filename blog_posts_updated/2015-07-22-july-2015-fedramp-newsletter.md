@@ -1,10 +1,10 @@
 ---
 title: July 2015 FedRAMP Newsletter
-layout: blog-list 
+layout: blog-list
 permalink: /july-2015-fedramp-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce six new FedRAMP Compliant cloud systems!
 
@@ -77,19 +77,19 @@ FedRamp now has 45 compliant CSP systems! A complete list of all FedRAMP complia
 ### Feature Item
  src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb.png" alt="newsletter_lightbulb" width="70" height="70" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb.png 268w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/06/newsletter_lightbulb-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />
 
-## What is FedRAMP Ready?
+### What is FedRAMP Ready?
 
 “How do I become FedRAMP Ready?”
 
 If you’re a Cloud Service Provider (CSP), then you might have asked this question. Or possibly you submitted this question to the PMO thinking FedRAMP Ready is a potential path to authorization. Becoming FedRAMP Ready is a key step in becoming FedRAMP compliant, but it is not a final determination. But if you plan on becoming FedRAMP compliant, then understanding the FedRAMP Ready designation is necessary. [Read the full story.](https://www.fedramp.gov/?p=31722)
 
-## INVITE: High Baseline Tiger Team
+### INVITE: High Baseline Tiger Team
 
 The Federal Risk and Authorization Management Program (FedRAMP) is looking for Government volunteers to join the High Baseline Tiger Team. This team will adjudicate the public commentary received for the draft [High Baseline](https://www.fedramp.gov/provide-public-comment/fedramp-high-baseline/) in January 2015.
 
 The Tiger Team will develop a series of recommendations for changes to the high baseline. The team’s focus will be to review all comments received during the public comment period. The Tiger Team will adjudicate the comments in preparation for a second round of public comment on the draft baseline. [_Read the full story._](https://www.fedramp.gov/?p=32992)
 
-## FedRAMP PMO releases three new documents
+### FedRAMP PMO releases three new documents
 
 FedRAMP has released new three new documents which pertain to Federal agencies, Cloud Service Providers (CSPs), and Third-Party Assessment Organizations (3PAOs).
 
@@ -99,17 +99,17 @@ FedRAMP has released new three new documents which pertain to Federal agencies, 
 
 All three documents are available on the [FedRAMP website](https://www.fedramp.gov/resources/documents/).
 
-## FedRAMP 3PAO Requirements Webinar
+### FedRAMP 3PAO Requirements Webinar
 
 The PMO hosted webinar on July 28th from 11 am to 12 pm EST on the [DRAFT FedRAMP 3PAO Accreditation Requirements](https://www.fedramp.gov/?p=31242). If you missed the live webinar, you can listen to the recorded version on the [FedRAMP website](https://www.fedramp.gov/fedramp-webinars/).
 
 FedRAMP is requesting feedback on an updated, DRAFT version of the 3PAO Accreditation Requirements. This DRAFT updates FedRAMP’s current 3PAO requirements which originated in 2010. As a growing program, FedRAMP has recognized the need to update these requirements to improve the quality of 3PAO assessment documentation, assessment team training, and oversight of accredited organizations. Once finalized, these requirements will be used by the American Association of Laboratory Accreditors (A2LA) to review 3PAO applicants and evaluate currently accredited 3PAOs for inclusion within the FedRAMP 3PAO Program. [Read the full public comment solicitation.](https://www.fedramp.gov/?p=31242)
 
-## Online SSP Training Unveiled
+### Online SSP Training Unveiled
 
 On July 8, FedRAMP unveiled its latest training course titled “[_FedRAMP System Security Plan (SSP) Required Documents (200-A)_](https://www.fedramp.gov/resources/training/)_.”_ This new training course is mandatory for all companies that wish to submit an Authorization package. This course will familiarize you with the required documentation for initial package submission. This is the second course in the FedRAMP training series and more will be released in the coming months.
 
-## Newly Accredited 3PAOs
+### Newly Accredited 3PAOs
 
 The FedRAMP PMO is happy to announce the addition of four Third-Party Assessment Organizations (3PAOs) to our growing directory!
 
@@ -122,23 +122,13 @@ The FedRAMP PMO is happy to announce the addition of four Third-Party Assessment
 View a full listing of FedRAMP accredited 3PAOs [here](https://www.fedramp.gov/marketplace/accredited-3paos/).
 
 
-## FedRAMP in the News:
+### FedRAMP in the News:
 
-
-  * <a href="http://gcn.com/articles/2015/07/22/birst-bi.aspx">Birst offers enterprise BI platform</a> (GCN.co)
-  * <a href="http://blog.executivebiz.com/2015/07/cylance-approved-as-federal-cloud-systems-inspector-corey-white-comments/">Cylance approved as Federal Cloud Systems Inspector</a> (Executive Biz)
-  * <a href="https://www.brightline.com/2015/07/fedramp-and-pci-a-comparison-of-scanning-and-penetration-testing-requirements/">FedRAMP and PCI , a comparison of scanning and penetration testing requirements</a> (Brightline)
-
-  <a href="http://gcn.com/articles/2015/07/01/fedramp-public-sector.aspx">Can states take advantage of FedRAMP?</a> (GCN.com)
-
-
-  <a href="http://gcn.com/articles/2015/06/23/nist-fedramp-trust.aspx">After FedRAMP: Trust, but verify</a> (GCN.com)
-
-
-  <a href="http://www.fiercegovernmentit.com/story/goodrich-agencies-get-better-security-through-fedramp-they-do-house-systems/2015-06-22">Goodrich: Agencies get better through FedRAMP than they do with in-house systems</a> (FierceGovernmentIT)
-
-
-  <a href="http://www.virtual-strategy.com/2015/06/23/centrify-clears-first-fedramp-hurdle-track-attain-full-compliance-2015#axzz3fyFTqRXN">Centrify clears first FedRAMP hurdle, on track to attain full compliance 2015</a> (Virtual-Strategy Magazine)
-
-
-  <a href="http://blog.executivebiz.com/2015/07/deltek-38-cloud-offerings-from-industry-hold-fedramp-compliant-status/">Deltek: 38 Cloud offerings from industry hold FedRAMP-compliant status</a> (ExecutiveBiz)
+* [Birst offers enterprise BI platform](http://gcn.com/articles/2015/07/22/birst-bi.aspx)(GCN.co)
+* [Cylance approved as Federal Cloud Systems Inspector](http://blog.executivebiz.com/2015/07/cylance-approved-as-federal-cloud-systems-inspector-corey-white-comments/) (Executive Biz)
+* [FedRAMP and PCI , a comparison of scanning and penetration testing requirements](https://www.brightline.com/2015/07/fedramp-and-pci-a-comparison-of-scanning-and-penetration-testing-requirements/)(Brightline)
+* [Can states take advantage of FedRAMP](http://gcn.com/articles/2015/07/01/fedramp-public-sector.aspx) (GCN.com)
+* [After FedRAMP, Trust, but verify](http://gcn.com/articles/2015/06/23/nist-fedramp-trust.aspx) (GCN.com)
+* [Goodrich: Agencies get better through FedRAMP than they do with in-house systems](http://www.fiercegovernmentit.com/story/goodrich-agencies-get-better-security-through-fedramp-they-do-house-systems/2015-06-22) (FierceGovernmentIT)
+* [Centrify clears first FedRAMP hurdle, on track to attain full compliance 2015](http://www.virtual-strategy.com/2015/06/23/centrify-clears-first-fedramp-hurdle-track-attain-full-compliance-2015#axzz3fyFTqRXN) (Virtual-Strategy Magazine)
+* [38 Cloud offerings from industry hold FedRAMP-compliant status](http://blog.executivebiz.com/2015/07/deltek-38-cloud-offerings-from-industry-hold-fedramp-compliant-status/) (ExecutiveBiz)

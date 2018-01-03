@@ -13,7 +13,7 @@ The updates to our templates include the following “ease-of-use” features:
 * Tables, except for Control Summary Information tables – include prompted data fields, choice menus, and drop-down date pickers
 * Figures – include insert fields that make it easier to insert figures
 
-All of the templates that will be updated include:
+**All of the templates that will be updated include:**
 
 * System Security Plan (SSP)
 * E-Authentication Worksheet

@@ -4,29 +4,27 @@ layout: blog-list
 permalink: /april-2015-newsletter-2/
 body-class: page-blog
 ---
-## [<img class="alignnone wp-image-24482 size-large" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header-1024x261.png" alt="FedRAMP newsletter header" width="1024" height="261" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-newsletter-header.png)
 
-## **New FedRAMP Compliant CSPs!**
+### **New FedRAMP Compliant CSPs!**
 
 The FedRAMP PMO is excited to announce two new FedRAMP compliant cloud systems!
 
-Agency ATO:
+**Agency ATO:**
 
   * [Avue Technologies , Avue Digital Services](https://www.fedramp.gov/?p=16192)
   * [Huddle , Huddle](https://www.fedramp.gov/?p=16742)
 
 FedRAMP now has 34 compliant CSP systems! A complete list of all FedRAMP compliant CSPs can be viewed [here](https://www.fedramp.gov/?p=782).
 
-## **Draft FedRamp-TIC Overlay Available for Public Comment**
+### Draft FedRamp-TIC Overlay Available for Public Comment
 
-<img class="alignright wp-image-25692 " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-300x149.jpg" alt="FedRAMP-TIC Overlay graphic" width="352" height="175" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-300x149.jpg 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-1024x511.jpg 1024w" sizes="(max-width: 352px) 100vw, 352px" />The FedRAMP PMO and TIC Initiative are jointly requesting feedback on a DRAFT FedRAMP-Trusted Internet Connection (TIC) Overlay. This DRAFT overlay is the first step in updating TIC’s current reference architecture to allow for greater flexibility as agencies move to the cloud securely. The overlay will enable mobile users to directly connect to Federal cloud system without utilizing a TIC Access Provider (TICAP) or  Managed Trusted IP Service (MTIPS).
+<img class="alignright wp-image-25692 " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-300x149.jpg" alt="FedRAMP-TIC Overlay graphic" width="352" height="175" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-300x149.jpg 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FedRAMP-TIC-Overlay-graphic-1024x511.jpg 1024w" sizes="(max-width: 352px) 100vw, 352px" />
+
+The FedRAMP PMO and TIC Initiative are jointly requesting feedback on a DRAFT FedRAMP-Trusted Internet Connection (TIC) Overlay. This DRAFT overlay is the first step in updating TIC’s current reference architecture to allow for greater flexibility as agencies move to the cloud securely. The overlay will enable mobile users to directly connect to Federal cloud system without utilizing a TIC Access Provider (TICAP) or  Managed Trusted IP Service (MTIPS).
 
 FedRAMP and TIC are seeking US Federal Departments and Agencies, CSPs, and other stakeholders to provide comments on this DRAFT overlay. The 30 day open comment period is from April 2, 2015 to May 1, 2015. All details about this request for feedback and documents to review are available at: [www.FedRAMP.gov](https://www.fedramp.gov/?p=18862).
 
-
-
-
-## **New 3PAOs**
+### New 3PAOs
 
 The FedRAMP PMO is excited to announce the addition of three  accredited 3PAOs:
 
@@ -36,13 +34,13 @@ The FedRAMP PMO is excited to announce the addition of three  accredited 3PAOs:
 
 A full listing of all FedRAMP accredited 3PAOs can be viewed [here](https://www.fedramp.gov/?p=2022).
 
-## **<img class="alignnone wp-image-26142" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Light-Bulb.jpg" alt="Light Bulb" width="67" height="71" />FedRAMP Tip of the Month:**
+### FedRAMP Tip of the Month:
 
 There’s no time like the present. While the requirement for notifying your FedRAMP ISSO on any significant change to your environment is at least 30 days, letting us know earlier rather than later of the potential change can help diffuse any questions and ensure the appropriate process is followed. Please keep in mind that a Significant Change Form (significant change as defined in the approved SSP), Security Impact Analysis, and appropriate supporting artifacts (if applicable: network topology, data-flow diagram, scan results, etc.) must be provided to your ISSO for review prior to implementing the change.  Your ISSO will review the proposed change for any impacts to your environment's security posture and determine next steps.
 
-The Significant Change Form can be found here: <https://www.fedramp.gov/resources/templates-3/>**** ****
+The Significant Change Form can be found [here:] (https://www.fedramp.gov/resources/templates-3/)
 
-## **Reminders!**
+### Reminders!
 
 Have you?
 
@@ -51,8 +49,7 @@ Have you?
   * Follow the FedRAMP team too! Find FedRAMP Director Matt GoodRich at [@MrFedRAMP](http://twitter.com/MrFedRAMP), Program Manager for Cybersecurity Claudio Belloli at [@SecureCloudio](http://twitter.com/SecureCloudio), and Program Manager for Operations John Hamilton at [@HamiCoud](http://twitter.com/HamiCloud).
 
 
-  **Upcoming Events**
-
+### Upcoming Events
 
   * April 21: [ISACA National Capital Area Chapter](https://www.fedramp.gov/?p=26232). Rosslyn, VA
   * April 22: [RSA Conference](https://www.fedramp.gov/?p=24342), San Francisco, CA
@@ -61,7 +58,7 @@ Have you?
   * May 14: [FedRAMP Forum](https://www.fedramp.gov/?p=26032), Falls Church, VA
 
 
-  **FedRAMP in the News**
+### FedRAMP in the News
 
 
   * [FedRAMP: What you need to know](http://www.csoonline.com/article/2906982/security-leadership/fedramp-what-you-need-to-know.html) , CSO Online

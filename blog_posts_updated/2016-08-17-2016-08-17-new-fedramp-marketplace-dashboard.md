@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /2016-08-17-new-fedramp-marketplace-dashboard/
 body-class: page-blog
 ---
-** We’re incredibly excited to announce the launch of the new [FedRAMP Marketplace dashboard](http://marketplace.fedramp.gov)! It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!
+**We’re incredibly excited to announce the launch of the new [FedRAMP Marketplace dashboard](http://marketplace.fedramp.gov)!** It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!
 
 <img class=" wp-image-61571 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-Marketplace-Dashboard.jpg" alt="FedRAMP Marketplace Dashboard" width="408" height="369" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-Marketplace-Dashboard.jpg 1912w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-Marketplace-Dashboard-300x271.jpg 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-Marketplace-Dashboard-768x694.jpg 768w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/FedRAMP-Marketplace-Dashboard-1024x926.jpg 1024w" sizes="(max-width: 408px) 100vw, 408px" />
 

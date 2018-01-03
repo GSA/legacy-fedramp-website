@@ -9,7 +9,7 @@ body-class: page-blog
 
 
 
-  Why did we do this?<img class="wp-image-64101 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/11/Inventory-Blog-Icon.png" alt="inventory-blog-icon" width="160" height="160" />
+  **Why did we do this?**
 
 
 

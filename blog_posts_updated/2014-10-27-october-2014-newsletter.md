@@ -5,8 +5,7 @@ permalink: /october-2014-newsletter/
 body-class: page-blog
 ---
 
-  **Events**
-
+### Events
 
 At this time, the FedRAMP PMO does not have any events or training sessions planned.
 
@@ -16,9 +15,7 @@ The FedRAMP PMO will be participating in the following events:
   * October 28, 2014 , 4th Annual Cyber Security Financial Forum in Washington, DC ([www.csff2014.com](http://www.csff2014.com))
   * October 29, 2014 , USDA Cybersecurity Expo
 
-
-  **FedRAMP Ready Systems**
-
+### FedRAMP Ready Systems
 
 This month, FedRAMP is introducing a new category of systems highlighted on the FedRAMP website that have been reviewed by the FedRAMP PMO: FedRAMP Ready Systems. FedRAMP is including systems in this category that have a demonstrated readiness to initiate assessments and authorizations with potential agency customers.
 
@@ -36,15 +33,11 @@ Systems listed as FedRAMP Ready include:
 
 For more information and to see those systems designated as FedRAMP Ready, please click [here](https://www.fedramp.gov/marketplace/fedramp-ready-systems/).
 
-
-  **Documentation Release **
-
+### Documentation Release
 
 The FedRAMP PMO has not released any documents or document updates since the last newsletter.
 
-
-  **Public Comment Requests**
-
+### Public Comment Requests
 
 The FedRAMP PMO will be reaching out to Cloud Service Providers who provided comments on the “Evolution of FedRAMP Continuous Monitoring Framework” for further discussion.
 
@@ -54,9 +47,7 @@ The workbook provides a standard risk and controls template for assessing baseli
 
 FedRAMP will seek industry and expert comment and feedback on this workbook.  The FedRAMP PMO will post the workbook on [www.FedRAMP.gov](https://www.fedramp.gov) and the open public comment will start on November 3 and end on December 12.
 
-
-  **FedRAMP Compliant CSPs**
-
+### FedRAMP Compliant CSPs
 
 At this time, there are 21 cloud services meet the FedRAMP requirements. The official list of compliant cloud services can be found [here](https://www.fedramp.gov/marketplace/compliant-systems/).
 
@@ -76,9 +67,7 @@ In addition to the cloud services who recently received an Agency ATO, the follo
   * SecureKey (leveraging HP ECS-VPC) , briidge.net Exchange™ for FCCX , now in authorization phase
   * Oracle , Oracle Service Cloud , now in authorization phase
 
-
-  **CSPs In Process for a FedRAMP Authorization**
-
+### CSPs In Process for a FedRAMP Authorization
 
 FedRAMP currently has 18 Cloud Services in the JAB Provisional Authorization pipeline and 14 Cloud Services in process for an Agency Authorization.  A full list of in-process CSPs can be found [here](https://www.fedramp.gov/marketplace/in-process-systems/).
 
@@ -90,9 +79,7 @@ Recently, the following cloud services initiated Agency ATOs and were added the 
 
 If you are and agency or CSP actively working on a FedRAMP authorization and your cloud service is not identified on the in-process list, please contact the FedRAMP PMO (<info@FedRAMP.gov>) so we can add the cloud service to the list.
 
-
-  **Accredited 3PAOs**
-
+### Accredited 3PAOs
 
 Currently, 31 independent assessors have received a FedRAMP 3PAO accreditation through the FedRAMP PMO and the American Association for Laboratory Accreditation (A2LA). The official list of Accredited 3PAOs can be found [here](https://www.fedramp.gov/marketplace/accredited-3paos/).
 
@@ -102,9 +89,7 @@ The 31 accredited FedRAMP 3PAOs listed on the FedRAMP website include 3 newly ac
   * Ernst and Young , September 30, 2014
   * Logyx , September 30, 2014
 
-
-  **IPv6**
-
+### IPv6
 
 The Federal CIO Council’s Fedv6 Taskforce is hosting an IPv6 Cloud Tech Session on Tuesday, November 4, 2014 specifically for interaction with Cloud Service Providers.
 

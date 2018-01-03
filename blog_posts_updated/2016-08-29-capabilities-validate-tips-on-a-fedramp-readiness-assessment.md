@@ -9,21 +9,21 @@ I recently held two mandatory webinars for our FedRAMP assessors (3PAOs) to go o
 
 **The intent of the RAR:**
 
-“Focus on capabilities and validate those capabilities”
+*“Focus on capabilities and validate those capabilities”*
 
 This is a phrase I used over and over again during the course of the webinars. This is the intent of the RAR , this is not a document exercise, but instead, an initial test of the system’s capabilities.
 
-“The intent is to _determine_ Readiness, not _guarantee_ it.”
+*“The intent is to _determine_ Readiness, not _guarantee_ it.”*
 
 We believe a majority of CSPs will not pass a readiness assessment the first time they engage with a 3PAO. This is not a bad thing , we want our CSPs to understand their capabilities prior to entering into a full FedRAMP Assessment. A RAR will allow a CSP to validate their capabilities or potentially identify any key gaps they must address before engaging with FedRAMP.
 
 **Some lessons learned from the first few FedRAMP Ready Assessments:**
 
-“A discovery scan of the system must be performed.”
+*“A discovery scan of the system must be performed.”*
 
 The boundary is the hardest part of defining any system. Due to this, the RAR requires that 3PAOs complete a discovery scan of a system as well as analyze all border devices for network traffic and configurations. This is to ensure that a boundary is _accurate_. In addition to this 3PAOs have to ensure the boundary is not only accurate, but makes sense as well.
 
-“Documentation mustn't be complete, but at least started.”
+*“Documentation mustn't be complete, but at least started.”*
 
 CSPs do not have to have 100% completed documentation in order to be deemed FedRAMP Ready. However, any mature organization does have to have procedures and policies documented, they must have at least a good start on documenting their FedRAMP implementations. This demonstrates a maturity needed to be able to get through FedRAMP.
 

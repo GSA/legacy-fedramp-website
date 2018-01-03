@@ -4,13 +4,13 @@ layout: blog-list
 permalink: /april-2016-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-## Initial Readiness Assessment Report Feedback
+### Initial Readiness Assessment Report Feedback
 
 On March 28, 2016, the FedRAMP Program Management Office (PMO) posted a draft of the FedRAMP Readiness Assessment Report and FedRAMP Readiness Assessment Guidance for CSPs and 3PAOs for public comment and have heard from many of you. ** ** The goal of the FedRAMP Readiness Assessment Report is to allow vendors to demonstrate their capabilities faster through an assessment by a Third Party Assessment Organization (3PAO) than through documentation reviews by the FedRAMP PMO. This will in turn enable Cloud Service Providers (CSPs) and Agencies to achieve FedRAMP authorizations faster without negatively impacting risk and quality of security packages.
 
 [Read the whole story](https://www.fedramp.gov/?p=47121)
 
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce that GovDelivery has earned a JAB Provisional Authorization and Acquia Inc. is now FedRAMP Compliant with an Agency Authorization !
 
@@ -39,8 +39,6 @@ The FedRAMP PMO is excited to announce that GovDelivery has earned a JAB Provis
 
 
 FedRAMP now has 65 FedRAMP Compliant CSP systems! A complete list can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
-
-## Feature Item:
 
 ### Sunsetting CSP-Supplied with a Revamped FedRAMP Ready
 

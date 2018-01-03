@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /fedramp-november-2015-pmo-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce a new FedRAMP Compliant cloud system!
 
@@ -30,15 +30,13 @@ FedRamp now has 21 FedRAMP Compliant CSP systems! A complete list of all FedRAM
   </tr>
 </table>
 
-## Feature Item: 
-
-## The Value of Quality Management
+### The Value of Quality Management
 
 Cloud Service Providers (CSPs) who incorporate Quality Management into their authorization package development projects will realize a return on their investment throughout the FedRAMP Review and Approve (R&A) process. Quality documentation is clear, concise, consistent, and complete. Quality documentation minimizes costly rework and time consuming delays caused by clarifying misunderstandings and waiting for missing documentation. FedRAMP requires quality documentation to provide a clear and complete description of the risk posture of a cloud system and reduce an agency’s level of effort to reuse an authorization package.
 
 [Read the whole story.](https://www.fedramp.gov/?p=41162)
 
-## FedRAMP 3PAOs Expected to be A2LA Accredited by Year End
+### FedRAMP 3PAOs Expected to be A2LA Accredited by Year End
 
 <img class=" size-medium wp-image-41202 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update-300x48.png" alt="combined_logos_update" width="300" height="48" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update-300x48.png 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/combined_logos_update.png 506w" sizes="(max-width: 300px) 100vw, 300px" />
 
@@ -46,13 +44,13 @@ Since March 2014, [American Association for Laboratory Accreditation (A2LA)](htt
 
 [Read the whole story.](https://www.fedramp.gov/?p=41182)
 
-## Reminder: Revision 4 Transition Coming Soon
+### Reminder: Revision 4 Transition Coming Soon
 
 Please be advised, beginning January 1, 2016, the FedRAMP PMO will only accept  materials aligned to the National Institutes of Standards and Technology (NIST) [Revision 4](http://csrc.nist.gov/publications/drafts/800-53-rev4/sp800-53-rev4-ipd.pdf) standards. Any Revision 3 documentation submitted to the PMO after that time will not be accepted.
 
 [Read the whole story.](https://www.fedramp.gov/?p=41252)
 
-## FedRAMP in the News:
+### FedRAMP in the News:
 
   *  [FedRAMP: Understand your data before you move to cloud](http://fedscoop.com/goodrich-understand-your-data-before-you-move-to-cloud) (FedScoop)
   * [Government should embrace convergence](http://www.fedtechmagazine.com/article/2015/11/what-uber-can-teach-government) (FedTech)

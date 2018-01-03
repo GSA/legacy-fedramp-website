@@ -4,7 +4,7 @@ layout: blog-list
 permalink: /february-2016-fedramp-pmo-newsletter/
 body-class: page-blog
 ---
-## New Compliant CSPs!
+### New Compliant CSPs!
 
 The FedRAMP PMO is excited to announce  three new systems, including one JAB Authorization and two Agency Authorizations!
 
@@ -43,8 +43,6 @@ The FedRAMP PMO is excited to announce  three new systems, including one JAB Au
 
 
 FedRAMP now has 24 JAB P-ATOs and 60 FedRAMP Compliant CSP systems! A complete list can be viewed [here](https://www.fedramp.gov/marketplace/compliant-systems/)
-
-## Feature Item:
 
 ### Reader Submission: Case for using FedRAMP
 
@@ -87,7 +85,7 @@ Here are the new FAQs:
 * [GSA working to speed up FedRAMP authorizations](http://www.fedweek.com/fedweek-information-technology/gsa-working-speed-fedramp-authorizations/)
 
 * [AWS Issues Guidance on Agency Readiness for Trusted Internet Connection](https://www.govconwire.com/2016/02/aws-issues-guidance-on-agency-readiness-for-trusted-internet-connection/)
-                
+
 * [Cornerstone OnDemand (CSOD) receives FedRAMP authorization from US Federal government](http://www.businesswire.com/news/home/20160209006654/en/Cornerstone-OnDemand-Receives-FedRAMP-Authorization-Federal-Government)
 
 * [Cyber, cloud lead DOD budget priorities](https://washingtontechnology.com/articles/2016/02/10/insights-mccoy-meloni-dod-spending.aspx)
